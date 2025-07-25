@@ -1,0 +1,3702 @@
+{
+  "docs": [
+    {
+      "id": "67814fa9cee8215b38c25dd9",
+      "updatedAt": "2025-03-16T19:38:12.678Z",
+      "name": "Sweatshirt",
+      "itemCategory": [
+        {
+          "id": "674837750b26fa77f9da1072",
+          "name": "Jumpers",
+          "createdAt": "2024-11-28T09:27:17.421Z",
+          "updatedAt": "2024-12-06T16:09:27.479Z",
+          "coverImage": {
+            "relationTo": "media",
+            "value": {
+              "id": "675321b362c21f38e94e578f",
+              "filename": "Knit jumper.webp",
+              "mimeType": "image/webp",
+              "filesize": 300694,
+              "width": 1920,
+              "height": 2496,
+              "focalX": 50,
+              "focalY": 50,
+              "createdAt": "2024-12-06T16:09:23.257Z",
+              "updatedAt": "2024-12-06T16:09:23.257Z",
+              "url": "/api/media/file/Knit jumper.webp",
+              "thumbnailURL": null
+            }
+          }
+        },
+        {
+          "id": "6762f7f82c7f3bf945ed5dd8",
+          "name": "Hoodie/ sweatshirt",
+          "createdAt": "2024-12-18T16:27:36.249Z",
+          "updatedAt": "2024-12-24T12:29:55.663Z",
+          "coverImage": {
+            "relationTo": "media",
+            "value": {
+              "id": "676aa88a2c7f3bf945ef3b50",
+              "filename": "Hoodie M&S.webp",
+              "mimeType": "image/webp",
+              "filesize": 180446,
+              "width": 1920,
+              "height": 2496,
+              "focalX": 50,
+              "focalY": 50,
+              "createdAt": "2024-12-24T12:26:50.580Z",
+              "updatedAt": "2024-12-24T12:26:50.580Z",
+              "url": "/api/media/file/Hoodie M&S.webp",
+              "thumbnailURL": null
+            }
+          }
+        }
+      ],
+      "coverImage": {
+        "relationTo": "media",
+        "value": {
+          "id": "67cc4f1490e89d9197ebded9",
+          "filename": "Cotton-Blend-Crew-Neck-Sweatshirt.jpeg",
+          "mimeType": "image/jpeg",
+          "filesize": 60334,
+          "width": 1024,
+          "height": 1331,
+          "focalX": 50,
+          "focalY": 50,
+          "createdAt": "2025-03-08T14:07:16.400Z",
+          "updatedAt": "2025-03-08T14:07:16.400Z",
+          "url": "/api/media/file/Cotton-Blend-Crew-Neck-Sweatshirt.jpeg",
+          "thumbnailURL": null
+        }
+      },
+      "questions": [],
+      "services": [
+        {
+          "name": "Shorten Sleeves",
+          "description": "Reduces the sleeve length  while maintaining the original finish and shape where possible.",
+          "serviceType": "alteration",
+          "fittingChoices": [
+            "match",
+            "pin",
+            "measure"
+          ],
+          "price": 3000,
+          "tailorPoints": 6,
+          "coverImage": {
+            "relationTo": "media",
+            "value": {
+              "id": "6769e7722c7f3bf945ee8f9e",
+              "filename": "hoodie shorten sleeves.webp",
+              "mimeType": "image/webp",
+              "filesize": 956878,
+              "width": 3026,
+              "height": 4034,
+              "focalX": 50,
+              "focalY": 50,
+              "createdAt": "2024-12-23T22:42:58.497Z",
+              "updatedAt": "2024-12-23T22:42:58.497Z",
+              "url": "/api/media/file/hoodie shorten sleeves.webp",
+              "thumbnailURL": null
+            }
+          },
+          "questions": [],
+          "subservices": [],
+          "deadEnd": false,
+          "active": true,
+          "id": "67814fa9470963000154d39b"
+        },
+        {
+          "name": "Crop",
+          "description": "Reduces the length while maintaining the original finish and shape where possible.",
+          "serviceType": "alteration",
+          "fittingChoices": [
+            "match",
+            "pin",
+            "measure"
+          ],
+          "price": 3000,
+          "tailorPoints": 6,
+          "coverImage": {
+            "relationTo": "media",
+            "value": {
+              "id": "6769e7882c7f3bf945ee8fc0",
+              "filename": "hoodie crop.webp",
+              "mimeType": "image/webp",
+              "filesize": 541908,
+              "width": 2354,
+              "height": 3139,
+              "focalX": 50,
+              "focalY": 50,
+              "createdAt": "2024-12-23T22:43:20.683Z",
+              "updatedAt": "2024-12-23T22:43:20.683Z",
+              "url": "/api/media/file/hoodie crop.webp",
+              "thumbnailURL": null
+            }
+          },
+          "questions": [],
+          "subservices": [],
+          "deadEnd": false,
+          "active": true,
+          "id": "67814fa9470963000154d39c"
+        },
+        {
+          "name": "Take in from Sides",
+          "description": "Reduces the width through the side seams, this can be altered by usually a maximum of 2 inches to ensure a balance in the overall shape.",
+          "serviceType": "alteration",
+          "fittingChoices": [
+            "match",
+            "pin",
+            "measure"
+          ],
+          "price": 3500,
+          "tailorPoints": 7,
+          "coverImage": {
+            "relationTo": "media",
+            "value": {
+              "id": "6769e79d2c7f3bf945ee8fe7",
+              "filename": "hoodie take in from sides.webp",
+              "mimeType": "image/webp",
+              "filesize": 648364,
+              "width": 2857,
+              "height": 3809,
+              "focalX": 50,
+              "focalY": 50,
+              "createdAt": "2024-12-23T22:43:41.523Z",
+              "updatedAt": "2024-12-23T22:43:41.523Z",
+              "url": "/api/media/file/hoodie take in from sides.webp",
+              "thumbnailURL": null
+            }
+          },
+          "questions": [],
+          "subservices": [],
+          "deadEnd": false,
+          "active": true,
+          "id": "67814fa9470963000154d39d"
+        },
+        {
+          "name": "Zip replacement ",
+          "description": "Ideal for when your zipper is damaged, stuck or no longer functions correctly. We have a stock of standard zips and can not guarantee an exact match to the original.",
+          "serviceType": "repair",
+          "fittingChoices": [],
+          "price": 2000,
+          "tailorPoints": 4,
+          "coverImage": {
+            "relationTo": "media",
+            "value": {
+              "id": "6769e7b92c7f3bf945ee9010",
+              "filename": "hoodie zip replacement.webp",
+              "mimeType": "image/webp",
+              "filesize": 665132,
+              "width": 2585,
+              "height": 3446,
+              "focalX": 50,
+              "focalY": 50,
+              "createdAt": "2024-12-23T22:44:09.233Z",
+              "updatedAt": "2024-12-23T22:44:09.233Z",
+              "url": "/api/media/file/hoodie zip replacement.webp",
+              "thumbnailURL": null
+            }
+          },
+          "questions": [
+            {
+              "question": "Would you like the main zip replaced or a smaller zip replaced?",
+              "questionType": "radio",
+              "option": [
+                {
+                  "answer": "Main zip",
+                  "priceModifier": 1000,
+                  "tailorPointsModifier": 2,
+                  "id": "67814fa9470963000154d3b9"
+                },
+                {
+                  "answer": "Small zip",
+                  "priceModifier": 0,
+                  "tailorPointsModifier": 0,
+                  "id": "67814fa9470963000154d3ba"
+                }
+              ],
+              "id": "67814fa9470963000154d3a4"
+            }
+          ],
+          "subservices": [
+            {
+              "name": "Source bespoke zip",
+              "priceModifier": 1000,
+              "tailorPointsModifier": 0,
+              "coverImage": {
+                "relationTo": "media",
+                "value": {
+                  "id": "67ce0a6290e89d9197ec2c23",
+                  "filename": "Bespoke zip copy-17.jpg",
+                  "mimeType": "image/jpeg",
+                  "filesize": 74829,
+                  "width": 503,
+                  "height": 214,
+                  "focalX": 50,
+                  "focalY": 50,
+                  "createdAt": "2025-03-09T21:38:42.313Z",
+                  "updatedAt": "2025-03-09T21:38:42.313Z",
+                  "url": "/api/media/file/Bespoke zip copy-17.jpg",
+                  "thumbnailURL": null
+                }
+              },
+              "questions": [],
+              "deadEnd": false,
+              "active": true,
+              "id": "67c49183e048c77f01f5608f"
+            },
+            {
+              "name": "Zip colour - Standard Black",
+              "priceModifier": 0,
+              "tailorPointsModifier": 0,
+              "coverImage": {
+                "relationTo": "media",
+                "value": {
+                  "id": "67ce0a7f90e89d9197ec2c67",
+                  "filename": "Black-19.jpeg",
+                  "mimeType": "image/jpeg",
+                  "filesize": 99280,
+                  "width": 1979,
+                  "height": 737,
+                  "focalX": 50,
+                  "focalY": 50,
+                  "createdAt": "2025-03-09T21:39:11.595Z",
+                  "updatedAt": "2025-03-09T21:39:11.595Z",
+                  "url": "/api/media/file/Black-19.jpeg",
+                  "thumbnailURL": null
+                }
+              },
+              "questions": [],
+              "deadEnd": false,
+              "active": true,
+              "id": "67c49184e048c77f01f56090"
+            },
+            {
+              "name": "Zip colour - Standard Navy",
+              "priceModifier": 0,
+              "tailorPointsModifier": 0,
+              "coverImage": {
+                "relationTo": "media",
+                "value": {
+                  "id": "67ce0a9490e89d9197ec2cac",
+                  "filename": "Navy-19.JPG",
+                  "mimeType": "image/jpeg",
+                  "filesize": 136782,
+                  "width": 1979,
+                  "height": 737,
+                  "focalX": 50,
+                  "focalY": 50,
+                  "createdAt": "2025-03-09T21:39:32.710Z",
+                  "updatedAt": "2025-03-09T21:39:32.710Z",
+                  "url": "/api/media/file/Navy-19.JPG",
+                  "thumbnailURL": null
+                }
+              },
+              "questions": [],
+              "deadEnd": false,
+              "active": true,
+              "id": "67c491a8e048c77f01f56091"
+            },
+            {
+              "name": "Zip colour - Standard Grey",
+              "priceModifier": 0,
+              "tailorPointsModifier": 0,
+              "coverImage": {
+                "relationTo": "media",
+                "value": {
+                  "id": "67ce0a9f90e89d9197ec2cf1",
+                  "filename": "Grey zip compressed-18.jpg",
+                  "mimeType": "image/jpeg",
+                  "filesize": 178545,
+                  "width": 1985,
+                  "height": 732,
+                  "focalX": 50,
+                  "focalY": 50,
+                  "createdAt": "2025-03-09T21:39:43.162Z",
+                  "updatedAt": "2025-03-09T21:39:43.162Z",
+                  "url": "/api/media/file/Grey zip compressed-18.jpg",
+                  "thumbnailURL": null
+                }
+              },
+              "questions": [],
+              "deadEnd": false,
+              "active": true,
+              "id": "67c491aee048c77f01f56092"
+            },
+            {
+              "name": "Zip colour - Standard Red",
+              "priceModifier": 0,
+              "tailorPointsModifier": 0,
+              "coverImage": {
+                "relationTo": "media",
+                "value": {
+                  "id": "67ce0ab390e89d9197ec2d37",
+                  "filename": "Red-18.JPG",
+                  "mimeType": "image/jpeg",
+                  "filesize": 166580,
+                  "width": 1602,
+                  "height": 703,
+                  "focalX": 50,
+                  "focalY": 50,
+                  "createdAt": "2025-03-09T21:40:03.504Z",
+                  "updatedAt": "2025-03-09T21:40:03.504Z",
+                  "url": "/api/media/file/Red-18.JPG",
+                  "thumbnailURL": null
+                }
+              },
+              "questions": [],
+              "deadEnd": false,
+              "active": true,
+              "id": "67c491b5e048c77f01f56093"
+            },
+            {
+              "name": "Zip colour - Standard Green",
+              "priceModifier": 0,
+              "tailorPointsModifier": 0,
+              "coverImage": {
+                "relationTo": "media",
+                "value": {
+                  "id": "67ce0abb90e89d9197ec2d7d",
+                  "filename": "Green-19.JPG",
+                  "mimeType": "image/jpeg",
+                  "filesize": 223186,
+                  "width": 1560,
+                  "height": 606,
+                  "focalX": 50,
+                  "focalY": 50,
+                  "createdAt": "2025-03-09T21:40:11.922Z",
+                  "updatedAt": "2025-03-09T21:40:11.922Z",
+                  "url": "/api/media/file/Green-19.JPG",
+                  "thumbnailURL": null
+                }
+              },
+              "questions": [],
+              "deadEnd": false,
+              "active": true,
+              "id": "67c491bae048c77f01f56094"
+            }
+          ],
+          "deadEnd": false,
+          "active": true,
+          "id": "67814fa9470963000154d39e"
+        },
+        {
+          "name": "Up-size",
+          "description": "Increase the width or length of your garment ",
+          "serviceType": "alteration",
+          "fittingChoices": [
+            "match",
+            "measure"
+          ],
+          "price": 3000,
+          "tailorPoints": 6,
+          "coverImage": {
+            "relationTo": "media",
+            "value": {
+              "id": "6769dc4c2c7f3bf945ee85cc",
+              "filename": "upsize trousers no drawstrings.webp",
+              "mimeType": "image/webp",
+              "filesize": 205738,
+              "width": 2730,
+              "height": 3640,
+              "focalX": 50,
+              "focalY": 50,
+              "createdAt": "2024-12-23T21:55:24.518Z",
+              "updatedAt": "2024-12-23T21:55:24.518Z",
+              "url": "/api/media/file/upsize trousers no drawstrings.webp",
+              "thumbnailURL": null
+            }
+          },
+          "questions": [
+            {
+              "question": "Is there seam allowance?",
+              "explainer": "Check the inside seam for extra fabric on the inside of a garment, found along the seams where the fabric pieces are stitched together.",
+              "questionType": "radio",
+              "option": [
+                {
+                  "answer": "There is seam allowance ",
+                  "priceModifier": 0,
+                  "tailorPointsModifier": 0,
+                  "id": "67814fa9470963000154d3c4"
+                },
+                {
+                  "answer": "There is not seam allowance",
+                  "priceModifier": 0,
+                  "tailorPointsModifier": 0,
+                  "id": "67814fa9470963000154d3c5"
+                }
+              ],
+              "id": "67814fa9470963000154d3a7"
+            }
+          ],
+          "subservices": [
+            {
+              "name": "Add side panels ",
+              "description": "Adding a panel of fabric into the side seams, in a contrasting or matching fabric colour. We recommend to send in a matched item of the same style and fabric for our tailors to match the measurements to.",
+              "priceModifier": 1000,
+              "tailorPointsModifier": 2,
+              "coverImage": {
+                "relationTo": "media",
+                "value": {
+                  "id": "6769dc4c2c7f3bf945ee85cc",
+                  "filename": "upsize trousers no drawstrings.webp",
+                  "mimeType": "image/webp",
+                  "filesize": 205738,
+                  "width": 2730,
+                  "height": 3640,
+                  "focalX": 50,
+                  "focalY": 50,
+                  "createdAt": "2024-12-23T21:55:24.518Z",
+                  "updatedAt": "2024-12-23T21:55:24.518Z",
+                  "url": "/api/media/file/upsize trousers no drawstrings.webp",
+                  "thumbnailURL": null
+                }
+              },
+              "questions": [
+                {
+                  "question": "What material would you like for the panels?",
+                  "explainer": "Adding a panel of fabric to hem, in a contrasting or matching fabric colour. We recommend to send in a matched item of the same style and fabric for our tailors to match the measurements to.",
+                  "questionType": "radio",
+                  "option": [
+                    {
+                      "answer": "Supply my own material",
+                      "priceModifier": 0,
+                      "tailorPointsModifier": 0,
+                      "id": "67d727c1c047eae7653f0c63"
+                    },
+                    {
+                      "answer": "Close match material",
+                      "priceModifier": 500,
+                      "tailorPointsModifier": 0,
+                      "id": "67d727cfc047eae7653f0c64"
+                    },
+                    {
+                      "answer": "Contrast colour material",
+                      "priceModifier": 500,
+                      "tailorPointsModifier": 0,
+                      "id": "67d727efc047eae7653f0c65"
+                    }
+                  ],
+                  "id": "67d727b0c047eae7653f0c62"
+                }
+              ],
+              "deadEnd": false,
+              "active": true,
+              "id": "67814fa9470963000154d3a8"
+            },
+            {
+              "name": "Add Panel to hem",
+              "description": "Adding a panel of fabric to hem, in a contrasting or matching fabric colour. We recommend to send in a matched item of the same style and fabric for our tailors to match the measurements to.",
+              "priceModifier": 1000,
+              "tailorPointsModifier": 2,
+              "coverImage": {
+                "relationTo": "media",
+                "value": {
+                  "id": "676984f82c7f3bf945ee1f73",
+                  "filename": "Panel to hem temporary.webp",
+                  "mimeType": "image/webp",
+                  "filesize": 283004,
+                  "width": 2638,
+                  "height": 3518,
+                  "focalX": 50,
+                  "focalY": 50,
+                  "createdAt": "2024-12-23T15:42:48.004Z",
+                  "updatedAt": "2024-12-23T15:42:48.004Z",
+                  "url": "/api/media/file/Panel to hem temporary.webp",
+                  "thumbnailURL": null
+                }
+              },
+              "questions": [
+                {
+                  "question": "What material would you like for the panels?",
+                  "explainer": "We can either use material you supply or use what we have in the studio. This can be a close match in terms of material colour and fabric or a contrast colour.",
+                  "questionType": "radio",
+                  "option": [
+                    {
+                      "answer": "Supply my own material",
+                      "priceModifier": 0,
+                      "tailorPointsModifier": 0,
+                      "id": "67d7274ac047eae7653f0c55"
+                    },
+                    {
+                      "answer": "Close match material",
+                      "priceModifier": 500,
+                      "tailorPointsModifier": 0,
+                      "id": "67d72756c047eae7653f0c56"
+                    },
+                    {
+                      "answer": "Contrast colour material",
+                      "priceModifier": 500,
+                      "tailorPointsModifier": 1,
+                      "id": "67d72767c047eae7653f0c57"
+                    }
+                  ],
+                  "id": "67d726b1c047eae7653f0c54"
+                }
+              ],
+              "deadEnd": false,
+              "active": true,
+              "id": "67814fa9470963000154d3a9"
+            },
+            {
+              "name": "Widen using existing seam allowance ",
+              "description": "Discrete method of widening using existing seam allowance to let out the sides. Please keep in mind that previous stitch marks my be visible when first completed but this will fade with wear and washes.",
+              "priceModifier": 500,
+              "tailorPointsModifier": 1,
+              "questionAnswerExclusion": "[\"67814fa9470963000154d3c5\"]",
+              "coverImage": {
+                "relationTo": "media",
+                "value": {
+                  "id": "6769e8ce2c7f3bf945ee905d",
+                  "filename": "exisiting seam allowance.webp",
+                  "mimeType": "image/webp",
+                  "filesize": 676364,
+                  "width": 2863,
+                  "height": 3818,
+                  "focalX": 50,
+                  "focalY": 50,
+                  "createdAt": "2024-12-23T22:48:46.856Z",
+                  "updatedAt": "2024-12-23T22:48:46.856Z",
+                  "url": "/api/media/file/exisiting seam allowance.webp",
+                  "thumbnailURL": null
+                }
+              },
+              "questions": [],
+              "deadEnd": false,
+              "active": true,
+              "id": "67814fa9470963000154d3aa"
+            },
+            {
+              "name": "Lengthen using existing seam allowance ",
+              "description": "Discrete method of lengthening by letting down the existing seam. Please keep in mind that previous stitch marks my be visible when first completed but this will fade with wear and washes.",
+              "priceModifier": 0,
+              "tailorPointsModifier": 0,
+              "questionAnswerExclusion": "[\"67814fa9470963000154d3c5\"]",
+              "coverImage": {
+                "relationTo": "media",
+                "value": {
+                  "id": "6769e9162c7f3bf945ee90c1",
+                  "filename": "seam allowance hem t-short grey.webp",
+                  "mimeType": "image/webp",
+                  "filesize": 533730,
+                  "width": 2725,
+                  "height": 3633,
+                  "focalX": 50,
+                  "focalY": 50,
+                  "createdAt": "2024-12-23T22:49:58.519Z",
+                  "updatedAt": "2024-12-23T22:49:58.519Z",
+                  "url": "/api/media/file/seam allowance hem t-short grey.webp",
+                  "thumbnailURL": null
+                }
+              },
+              "questions": [],
+              "deadEnd": false,
+              "active": true,
+              "id": "67814fa9470963000154d3ab"
+            }
+          ],
+          "deadEnd": false,
+          "active": true,
+          "id": "67814fa9470963000154d39f"
+        },
+        {
+          "name": "Fix stitching",
+          "description": "Repairs seams or stitches that have come undone or are loose. Ideal for when the thread holding the fabric together is damaged, loose, or has unraveled.",
+          "serviceType": "repair",
+          "fittingChoices": [],
+          "price": 1500,
+          "tailorPoints": 3,
+          "coverImage": {
+            "relationTo": "media",
+            "value": {
+              "id": "6769e92f2c7f3bf945ee90f0",
+              "filename": "fix stitching hoodie.webp",
+              "mimeType": "image/webp",
+              "filesize": 264958,
+              "width": 2490,
+              "height": 3320,
+              "focalX": 50,
+              "focalY": 50,
+              "createdAt": "2024-12-23T22:50:23.603Z",
+              "updatedAt": "2024-12-23T22:50:23.603Z",
+              "url": "/api/media/file/fix stitching hoodie.webp",
+              "thumbnailURL": null
+            }
+          },
+          "questions": [],
+          "subservices": [],
+          "deadEnd": false,
+          "active": true,
+          "id": "67814fa9470963000154d3a0"
+        },
+        {
+          "name": "Mend rips/ holes",
+          "serviceType": "repair",
+          "fittingChoices": [],
+          "price": 1500,
+          "tailorPoints": 3,
+          "coverImage": {
+            "relationTo": "media",
+            "value": {
+              "id": "6769e93d2c7f3bf945ee9118",
+              "filename": "hoodie hole.webp",
+              "mimeType": "image/webp",
+              "filesize": 301924,
+              "width": 2107,
+              "height": 2809,
+              "focalX": 50,
+              "focalY": 50,
+              "createdAt": "2024-12-23T22:50:37.391Z",
+              "updatedAt": "2024-12-23T22:50:37.391Z",
+              "url": "/api/media/file/hoodie hole.webp",
+              "thumbnailURL": null
+            }
+          },
+          "questions": [
+            {
+              "question": "How many rips/ holes do you need fixing?",
+              "questionType": "radio",
+              "option": [
+                {
+                  "answer": "1 hole / rip",
+                  "priceModifier": 0,
+                  "tailorPointsModifier": 0,
+                  "id": "67814fa9470963000154d3c6"
+                },
+                {
+                  "answer": "2-3 holes / rips",
+                  "priceModifier": 1000,
+                  "tailorPointsModifier": 2,
+                  "id": "67814fa9470963000154d3c7"
+                },
+                {
+                  "answer": "4-6 holes / rips",
+                  "priceModifier": 2000,
+                  "tailorPointsModifier": 4,
+                  "id": "67814fa9470963000154d3c8"
+                },
+                {
+                  "answer": "7-9 holes / rips",
+                  "priceModifier": 3000,
+                  "tailorPointsModifier": 6,
+                  "id": "67814fa9470963000154d3c9"
+                },
+                {
+                  "answer": "10 + holes/ rips",
+                  "priceModifier": 4500,
+                  "tailorPointsModifier": 9,
+                  "id": "67814fa9470963000154d3ca"
+                }
+              ],
+              "id": "67814fa9470963000154d3ac"
+            },
+            {
+              "question": "What is the size of your hole(s)/ rip(s)",
+              "explainer": "Please give the average size of the holes or rips when there are varying sizes. Please measure from the widest part.",
+              "questionType": "radio",
+              "option": [
+                {
+                  "answer": "0- 1cm",
+                  "priceModifier": 0,
+                  "tailorPointsModifier": 0,
+                  "id": "67814fa9470963000154d3cb"
+                },
+                {
+                  "answer": "1.5cm - 3cm",
+                  "priceModifier": 500,
+                  "tailorPointsModifier": 1,
+                  "id": "67814fa9470963000154d3cc"
+                },
+                {
+                  "answer": "3.5cm- 5cm",
+                  "priceModifier": 1000,
+                  "tailorPointsModifier": 2,
+                  "id": "67814fa9470963000154d3cd"
+                },
+                {
+                  "answer": "5.5cm-7cm",
+                  "priceModifier": 1500,
+                  "tailorPointsModifier": 3,
+                  "id": "67814fa9470963000154d3ce"
+                },
+                {
+                  "answer": "7cm +",
+                  "priceModifier": 2000,
+                  "tailorPointsModifier": 4,
+                  "id": "67814fa9470963000154d3cf"
+                }
+              ],
+              "id": "67814fa9470963000154d3ad"
+            }
+          ],
+          "subservices": [
+            {
+              "name": "Visible darning",
+              "priceModifier": 2000,
+              "tailorPointsModifier": 5,
+              "coverImage": {
+                "relationTo": "media",
+                "value": {
+                  "id": "6758247b62c21f38e94ecaab",
+                  "filename": "Wool jacket visible darning.webp",
+                  "mimeType": "image/webp",
+                  "filesize": 223056,
+                  "width": 2376,
+                  "height": 3168,
+                  "focalX": 50,
+                  "focalY": 50,
+                  "createdAt": "2024-12-10T11:22:35.675Z",
+                  "updatedAt": "2024-12-10T11:22:35.675Z",
+                  "url": "/api/media/file/Wool jacket visible darning.webp",
+                  "thumbnailURL": null
+                }
+              },
+              "questions": [
+                {
+                  "question": "Would you prefer a close colour match or a contrast? Please specify 'close match' or your desired contrast colour.",
+                  "explainer": "If you choose close colour match we will select the closest match from our selection of over 2,000 yarns. We cannot guarantee an exact match.",
+                  "questionType": "text",
+                  "option": [],
+                  "id": "67814fa9470963000154d3d0"
+                }
+              ],
+              "deadEnd": false,
+              "active": true,
+              "id": "67814fa9470963000154d3ae"
+            },
+            {
+              "name": "Patch ",
+              "description": "We can create patches using either excess material from the garment or use a close colour match to create discrete patches. Alternatively we can create patches in a contrast colour similar to the style of Sashiko mending techniques.",
+              "priceModifier": 2000,
+              "tailorPointsModifier": 4,
+              "coverImage": {
+                "relationTo": "media",
+                "value": {
+                  "id": "6769e97a2c7f3bf945ee916b",
+                  "filename": "hoodie patch.webp",
+                  "mimeType": "image/webp",
+                  "filesize": 440798,
+                  "width": 2053,
+                  "height": 2738,
+                  "focalX": 50,
+                  "focalY": 50,
+                  "createdAt": "2024-12-23T22:51:38.567Z",
+                  "updatedAt": "2024-12-23T22:51:38.567Z",
+                  "url": "/api/media/file/hoodie patch.webp",
+                  "thumbnailURL": null
+                }
+              },
+              "questions": [],
+              "deadEnd": false,
+              "active": true,
+              "id": "67814fa9470963000154d3af"
+            },
+            {
+              "name": "Create discrete seam ",
+              "description": "We can pull the rip/ hole into a small seam leaving a small line where the material has been taken in to find the damage.",
+              "priceModifier": 1500,
+              "tailorPointsModifier": 3,
+              "coverImage": {
+                "relationTo": "media",
+                "value": {
+                  "id": "6758229562c21f38e94ec98c",
+                  "filename": "Create seam.webp",
+                  "mimeType": "image/webp",
+                  "filesize": 878336,
+                  "width": 2795,
+                  "height": 3727,
+                  "focalX": 50,
+                  "focalY": 50,
+                  "createdAt": "2024-12-10T11:14:29.330Z",
+                  "updatedAt": "2024-12-10T11:14:29.330Z",
+                  "url": "/api/media/file/Create seam.webp",
+                  "thumbnailURL": null
+                }
+              },
+              "questions": [],
+              "deadEnd": false,
+              "active": true,
+              "id": "67814fa9470963000154d3b0"
+            },
+            {
+              "name": "Fix rip along seam",
+              "description": "Repairs a single tear or damage along a seam, where the pieces of fabric are stitched together. Ideal for small rips caused by snagging or wear and tear to maintain the structural integrity. In some cases depending on the damage we will need to take in the fabric to ensure a clean new durable seam, this can slightly alter the fit of the original shape.",
+              "priceModifier": 1500,
+              "tailorPointsModifier": 3,
+              "coverImage": {
+                "relationTo": "media",
+                "value": {
+                  "id": "675846fe62c21f38e94ef4ea",
+                  "filename": "Wool jacket rip along sleeve.webp",
+                  "mimeType": "image/webp",
+                  "filesize": 162472,
+                  "width": 2089,
+                  "height": 2785,
+                  "focalX": 50,
+                  "focalY": 50,
+                  "createdAt": "2024-12-10T13:49:50.600Z",
+                  "updatedAt": "2024-12-10T13:49:50.600Z",
+                  "url": "/api/media/file/Wool jacket rip along sleeve.webp",
+                  "thumbnailURL": null
+                }
+              },
+              "questions": [],
+              "deadEnd": false,
+              "active": true,
+              "id": "67814fa9470963000154d3b1"
+            }
+          ],
+          "deadEnd": false,
+          "active": true,
+          "id": "67814fa9470963000154d3a1"
+        },
+        {
+          "name": "Replace ribbing",
+          "description": "Replace worn away ribbing at the cuffs, neckline, bottom ribbing ",
+          "serviceType": "repair",
+          "fittingChoices": [],
+          "price": 2500,
+          "tailorPoints": 5,
+          "coverImage": {
+            "relationTo": "media",
+            "value": {
+              "id": "675832ad62c21f38e94edb0d",
+              "filename": "Hoodie sleeve broken.webp",
+              "mimeType": "image/webp",
+              "filesize": 891962,
+              "width": 2695,
+              "height": 3593,
+              "focalX": 50,
+              "focalY": 50,
+              "createdAt": "2024-12-10T12:23:09.653Z",
+              "updatedAt": "2024-12-10T12:23:09.653Z",
+              "url": "/api/media/file/Hoodie sleeve broken.webp",
+              "thumbnailURL": null
+            }
+          },
+          "questions": [],
+          "subservices": [
+            {
+              "name": "Replace ribbing of one sleeve",
+              "priceModifier": 0,
+              "tailorPointsModifier": 0,
+              "coverImage": {
+                "relationTo": "media",
+                "value": {
+                  "id": "675833c162c21f38e94edb36",
+                  "filename": "mended hoodie sleeve.webp",
+                  "mimeType": "image/webp",
+                  "filesize": 595910,
+                  "width": 2422,
+                  "height": 3230,
+                  "focalX": 50,
+                  "focalY": 50,
+                  "createdAt": "2024-12-10T12:27:45.751Z",
+                  "updatedAt": "2024-12-10T12:27:45.751Z",
+                  "url": "/api/media/file/mended hoodie sleeve.webp",
+                  "thumbnailURL": null
+                }
+              },
+              "questions": [],
+              "deadEnd": false,
+              "active": true,
+              "id": "67814fa9470963000154d3b3"
+            },
+            {
+              "name": "Replace ribbing of both sleeves",
+              "priceModifier": 2500,
+              "tailorPointsModifier": 5,
+              "coverImage": {
+                "relationTo": "media",
+                "value": {
+                  "id": "676ab7902c7f3bf945ef5a39",
+                  "filename": "2 x cuffs.webp",
+                  "mimeType": "image/webp",
+                  "filesize": 446702,
+                  "width": 2956,
+                  "height": 3942,
+                  "focalX": 50,
+                  "focalY": 50,
+                  "createdAt": "2024-12-24T13:30:56.642Z",
+                  "updatedAt": "2024-12-24T13:30:56.642Z",
+                  "url": "/api/media/file/2 x cuffs.webp",
+                  "thumbnailURL": null
+                }
+              },
+              "questions": [],
+              "deadEnd": false,
+              "active": true,
+              "id": "67814fa9470963000154d3b4"
+            },
+            {
+              "name": "Replace ribbing around neckline",
+              "priceModifier": 2000,
+              "tailorPointsModifier": 4,
+              "coverImage": {
+                "relationTo": "media",
+                "value": {
+                  "id": "6769e9d02c7f3bf945ee920b",
+                  "filename": "neckline ribbing.webp",
+                  "mimeType": "image/webp",
+                  "filesize": 505242,
+                  "width": 2680,
+                  "height": 3573,
+                  "focalX": 50,
+                  "focalY": 50,
+                  "createdAt": "2024-12-23T22:53:04.857Z",
+                  "updatedAt": "2024-12-23T22:53:04.857Z",
+                  "url": "/api/media/file/neckline ribbing.webp",
+                  "thumbnailURL": null
+                }
+              },
+              "questions": [],
+              "deadEnd": false,
+              "active": true,
+              "id": "67814fa9470963000154d3b5"
+            },
+            {
+              "name": "Replace ribbing waistband ",
+              "priceModifier": 3000,
+              "tailorPointsModifier": 6,
+              "coverImage": {
+                "relationTo": "media",
+                "value": {
+                  "id": "6769e9e82c7f3bf945ee9241",
+                  "filename": "waistband hoodie.webp",
+                  "mimeType": "image/webp",
+                  "filesize": 662146,
+                  "width": 2719,
+                  "height": 3625,
+                  "focalX": 50,
+                  "focalY": 50,
+                  "createdAt": "2024-12-23T22:53:28.244Z",
+                  "updatedAt": "2024-12-23T22:53:28.244Z",
+                  "url": "/api/media/file/waistband hoodie.webp",
+                  "thumbnailURL": null
+                }
+              },
+              "questions": [],
+              "deadEnd": false,
+              "active": true,
+              "id": "67814fa9470963000154d3b6"
+            }
+          ],
+          "deadEnd": false,
+          "active": true,
+          "id": "67814fa9470963000154d3a2"
+        }
+      ],
+      "active": true,
+      "createdAt": "2025-01-10T16:49:45.222Z"
+    },
+    {
+      "id": "67682f032c7f3bf945ed9649",
+      "updatedAt": "2025-02-02T12:07:37.647Z",
+      "name": "Knitted Jumper",
+      "itemCategory": [
+        {
+          "id": "674837ac0b26fa77f9da109d",
+          "name": "Knitwear",
+          "createdAt": "2024-11-28T09:28:12.257Z",
+          "updatedAt": "2024-12-24T12:32:37.238Z",
+          "coverImage": {
+            "relationTo": "media",
+            "value": {
+              "id": "6753213d62c21f38e94e564e",
+              "filename": "Knit vest.webp",
+              "mimeType": "image/webp",
+              "filesize": 603978,
+              "width": 1920,
+              "height": 2496,
+              "focalX": 50,
+              "focalY": 50,
+              "createdAt": "2024-12-06T16:07:25.398Z",
+              "updatedAt": "2024-12-06T16:07:25.398Z",
+              "url": "/api/media/file/Knit vest.webp",
+              "thumbnailURL": null
+            }
+          }
+        },
+        {
+          "id": "674837750b26fa77f9da1072",
+          "name": "Jumpers",
+          "createdAt": "2024-11-28T09:27:17.421Z",
+          "updatedAt": "2024-12-06T16:09:27.479Z",
+          "coverImage": {
+            "relationTo": "media",
+            "value": {
+              "id": "675321b362c21f38e94e578f",
+              "filename": "Knit jumper.webp",
+              "mimeType": "image/webp",
+              "filesize": 300694,
+              "width": 1920,
+              "height": 2496,
+              "focalX": 50,
+              "focalY": 50,
+              "createdAt": "2024-12-06T16:09:23.257Z",
+              "updatedAt": "2024-12-06T16:09:23.257Z",
+              "url": "/api/media/file/Knit jumper.webp",
+              "thumbnailURL": null
+            }
+          }
+        },
+        {
+          "id": "674837860b26fa77f9da1083",
+          "name": "Tops",
+          "createdAt": "2024-11-28T09:27:34.400Z",
+          "updatedAt": "2024-12-06T16:08:58.345Z",
+          "coverImage": {
+            "relationTo": "media",
+            "value": {
+              "id": "6753219562c21f38e94e5735",
+              "filename": "Long sleeved top.webp",
+              "mimeType": "image/webp",
+              "filesize": 305338,
+              "width": 1920,
+              "height": 2496,
+              "focalX": 50,
+              "focalY": 50,
+              "createdAt": "2024-12-06T16:08:53.933Z",
+              "updatedAt": "2024-12-06T16:08:53.933Z",
+              "url": "/api/media/file/Long sleeved top.webp",
+              "thumbnailURL": null
+            }
+          }
+        },
+        {
+          "id": "6762f7f82c7f3bf945ed5dd8",
+          "name": "Hoodie/ sweatshirt",
+          "createdAt": "2024-12-18T16:27:36.249Z",
+          "updatedAt": "2024-12-24T12:29:55.663Z",
+          "coverImage": {
+            "relationTo": "media",
+            "value": {
+              "id": "676aa88a2c7f3bf945ef3b50",
+              "filename": "Hoodie M&S.webp",
+              "mimeType": "image/webp",
+              "filesize": 180446,
+              "width": 1920,
+              "height": 2496,
+              "focalX": 50,
+              "focalY": 50,
+              "createdAt": "2024-12-24T12:26:50.580Z",
+              "updatedAt": "2024-12-24T12:26:50.580Z",
+              "url": "/api/media/file/Hoodie M&S.webp",
+              "thumbnailURL": null
+            }
+          }
+        }
+      ],
+      "coverImage": {
+        "relationTo": "media",
+        "value": {
+          "id": "675321b362c21f38e94e578f",
+          "filename": "Knit jumper.webp",
+          "mimeType": "image/webp",
+          "filesize": 300694,
+          "width": 1920,
+          "height": 2496,
+          "focalX": 50,
+          "focalY": 50,
+          "createdAt": "2024-12-06T16:09:23.257Z",
+          "updatedAt": "2024-12-06T16:09:23.257Z",
+          "url": "/api/media/file/Knit jumper.webp",
+          "thumbnailURL": null
+        }
+      },
+      "questions": [],
+      "services": [
+        {
+          "name": "Mend holes",
+          "description": "",
+          "serviceType": "repair",
+          "fittingChoices": [],
+          "price": 1000,
+          "tailorPoints": 2,
+          "coverImage": {
+            "relationTo": "media",
+            "value": {
+              "id": "6758bd0a2c7f3bf945ebbb23",
+              "filename": "margaret howell hole jumper.webp",
+              "mimeType": "image/webp",
+              "filesize": 411440,
+              "width": 2280,
+              "height": 3040,
+              "focalX": 50,
+              "focalY": 50,
+              "createdAt": "2024-12-10T22:13:30.894Z",
+              "updatedAt": "2024-12-10T22:13:30.894Z",
+              "url": "/api/media/file/margaret howell hole jumper.webp",
+              "thumbnailURL": null
+            }
+          },
+          "questions": [],
+          "subservices": [
+            {
+              "name": "Re-knit holes",
+              "description": "We can re-knit holes in your knitwear. INVISIBILITY IS NOT GUARANTEED this depends on whether we can source yarn from the seam of the jumper for a perfect colour match. If not we will use as close match yarn as possible from our selection in the studio.",
+              "priceModifier": 1000,
+              "tailorPointsModifier": 2,
+              "coverImage": {
+                "relationTo": "media",
+                "value": {
+                  "id": "6758b89a2c7f3bf945ebb5f8",
+                  "filename": "white jumper reknit.webp",
+                  "mimeType": "image/webp",
+                  "filesize": 546994,
+                  "width": 2674,
+                  "height": 3566,
+                  "focalX": 50,
+                  "focalY": 50,
+                  "createdAt": "2024-12-10T21:54:34.165Z",
+                  "updatedAt": "2024-12-10T21:54:34.165Z",
+                  "url": "/api/media/file/white jumper reknit.webp",
+                  "thumbnailURL": null
+                }
+              },
+              "questions": [
+                {
+                  "question": "How many holes do you need fixing?",
+                  "questionType": "radio",
+                  "option": [
+                    {
+                      "answer": "1",
+                      "priceModifier": 0,
+                      "tailorPointsModifier": 0,
+                      "id": "67699d804f1f6b16da145d9a"
+                    },
+                    {
+                      "answer": "2",
+                      "priceModifier": 1500,
+                      "tailorPointsModifier": 0,
+                      "id": "67699d834f1f6b16da145d9b"
+                    },
+                    {
+                      "answer": "3",
+                      "priceModifier": 3000,
+                      "tailorPointsModifier": 0,
+                      "id": "67699d914f1f6b16da145d9c"
+                    },
+                    {
+                      "answer": "4",
+                      "priceModifier": 4500,
+                      "tailorPointsModifier": 0,
+                      "id": "67699d964f1f6b16da145d9d"
+                    },
+                    {
+                      "answer": "5",
+                      "priceModifier": 6000,
+                      "tailorPointsModifier": 0,
+                      "id": "67699d9d4f1f6b16da145d9e"
+                    },
+                    {
+                      "answer": "6",
+                      "priceModifier": 7500,
+                      "tailorPointsModifier": 0,
+                      "id": "67699da24f1f6b16da145d9f"
+                    },
+                    {
+                      "answer": "7",
+                      "priceModifier": 9000,
+                      "tailorPointsModifier": 0,
+                      "id": "67699da94f1f6b16da145da0"
+                    },
+                    {
+                      "answer": "8",
+                      "priceModifier": 10500,
+                      "tailorPointsModifier": 0,
+                      "id": "67699db04f1f6b16da145da1"
+                    },
+                    {
+                      "answer": "9",
+                      "priceModifier": 12000,
+                      "tailorPointsModifier": 0,
+                      "id": "67699db74f1f6b16da145da2"
+                    },
+                    {
+                      "answer": "10+",
+                      "priceModifier": 15000,
+                      "tailorPointsModifier": 0,
+                      "id": "67699dc24f1f6b16da145da3"
+                    },
+                    {
+                      "answer": "20+ Knitwear Restoration",
+                      "priceModifier": 25000,
+                      "tailorPointsModifier": 0,
+                      "id": "67699dca4f1f6b16da145da4"
+                    }
+                  ],
+                  "id": "67699d574f1f6b16da145d99"
+                },
+                {
+                  "question": "What is the average size of your hole/s?",
+                  "questionType": "radio",
+                  "option": [
+                    {
+                      "answer": "XS 0- 1cm",
+                      "priceModifier": 0,
+                      "tailorPointsModifier": 0,
+                      "id": "67699e094f1f6b16da145da6"
+                    },
+                    {
+                      "answer": "S 1cm - 3cm",
+                      "priceModifier": 1000,
+                      "tailorPointsModifier": 0,
+                      "id": "67699e174f1f6b16da145da7"
+                    },
+                    {
+                      "answer": "M 3cm- 5cm",
+                      "priceModifier": 1500,
+                      "tailorPointsModifier": 0,
+                      "id": "67699e354f1f6b16da145da9"
+                    },
+                    {
+                      "answer": "L 5cm- 7cm",
+                      "priceModifier": 2000,
+                      "tailorPointsModifier": 0,
+                      "id": "67699e3f4f1f6b16da145daa"
+                    },
+                    {
+                      "answer": "XL 7cm+",
+                      "priceModifier": 2500,
+                      "tailorPointsModifier": 0,
+                      "id": "67699e584f1f6b16da145dab"
+                    }
+                  ],
+                  "id": "67699dfb4f1f6b16da145da5"
+                },
+                {
+                  "question": "How thick is your knit?",
+                  "questionType": "radio",
+                  "option": [
+                    {
+                      "answer": "Fine Knit",
+                      "priceModifier": 1000,
+                      "tailorPointsModifier": 2,
+                      "id": "67699eb04f1f6b16da145dad"
+                    },
+                    {
+                      "answer": "Medium Knit",
+                      "priceModifier": 500,
+                      "tailorPointsModifier": 1,
+                      "id": "67699ecd4f1f6b16da145dae"
+                    },
+                    {
+                      "answer": "Chunky knit",
+                      "priceModifier": 0,
+                      "tailorPointsModifier": 0,
+                      "id": "67699eee4f1f6b16da145daf"
+                    }
+                  ],
+                  "id": "67699ea04f1f6b16da145dac"
+                }
+              ],
+              "deadEnd": false,
+              "active": true,
+              "id": "67699c3a4f1f6b16da145d98"
+            },
+            {
+              "name": "Re-knit holes - Contrast Colour",
+              "description": "We can re-knit holes in your knitwear. INVISIBILITY IS NOT GUARANTEED this depends on whether we can source yarn from the seam of the jumper for a perfect colour match. If not we will use as close match yarn as possible from our selection in the studio.",
+              "priceModifier": 500,
+              "tailorPointsModifier": 0,
+              "coverImage": {
+                "relationTo": "media",
+                "value": {
+                  "id": "676aa0af2c7f3bf945ef2165",
+                  "filename": "reknit contrast colour temp.webp",
+                  "mimeType": "image/webp",
+                  "filesize": 790518,
+                  "width": 2185,
+                  "height": 2913,
+                  "focalX": 50,
+                  "focalY": 50,
+                  "createdAt": "2024-12-24T11:53:19.108Z",
+                  "updatedAt": "2024-12-24T11:53:19.108Z",
+                  "url": "/api/media/file/reknit contrast colour temp.webp",
+                  "thumbnailURL": null
+                }
+              },
+              "questions": [
+                {
+                  "question": "How many holes do you need fixing?",
+                  "questionType": "radio",
+                  "option": [
+                    {
+                      "answer": "1",
+                      "priceModifier": 0,
+                      "tailorPointsModifier": 0,
+                      "id": "6769a5494f1f6b16da145e13"
+                    },
+                    {
+                      "answer": "2",
+                      "priceModifier": 1500,
+                      "tailorPointsModifier": 0,
+                      "id": "6769a5494f1f6b16da145e15"
+                    },
+                    {
+                      "answer": "3",
+                      "priceModifier": 3000,
+                      "tailorPointsModifier": 0,
+                      "id": "6769a5494f1f6b16da145e17"
+                    },
+                    {
+                      "answer": "4",
+                      "priceModifier": 4500,
+                      "tailorPointsModifier": 0,
+                      "id": "6769a5494f1f6b16da145e19"
+                    },
+                    {
+                      "answer": "5",
+                      "priceModifier": 6000,
+                      "tailorPointsModifier": 0,
+                      "id": "6769a5494f1f6b16da145e1b"
+                    },
+                    {
+                      "answer": "6",
+                      "priceModifier": 7500,
+                      "tailorPointsModifier": 0,
+                      "id": "6769a5494f1f6b16da145e1d"
+                    },
+                    {
+                      "answer": "7",
+                      "priceModifier": 9000,
+                      "tailorPointsModifier": 0,
+                      "id": "6769a5494f1f6b16da145e1f"
+                    },
+                    {
+                      "answer": "8",
+                      "priceModifier": 10500,
+                      "tailorPointsModifier": 0,
+                      "id": "6769a5494f1f6b16da145e21"
+                    },
+                    {
+                      "answer": "9",
+                      "priceModifier": 12000,
+                      "tailorPointsModifier": 0,
+                      "id": "6769a5494f1f6b16da145e23"
+                    },
+                    {
+                      "answer": "10+",
+                      "priceModifier": 15000,
+                      "tailorPointsModifier": 0,
+                      "id": "6769a5494f1f6b16da145e25"
+                    },
+                    {
+                      "answer": "20+ Knitwear Restoration",
+                      "priceModifier": 25000,
+                      "tailorPointsModifier": 0,
+                      "id": "6769a5494f1f6b16da145e27"
+                    }
+                  ],
+                  "id": "6769a5494f1f6b16da145e11"
+                },
+                {
+                  "question": "What is the average size of your hole/s?",
+                  "questionType": "radio",
+                  "option": [
+                    {
+                      "answer": "XS 0- 1cm",
+                      "priceModifier": 0,
+                      "tailorPointsModifier": 0,
+                      "id": "6769a5494f1f6b16da145e2b"
+                    },
+                    {
+                      "answer": "S 1cm - 3cm",
+                      "priceModifier": 1000,
+                      "tailorPointsModifier": 0,
+                      "id": "6769a5494f1f6b16da145e2d"
+                    },
+                    {
+                      "answer": "M 3cm- 5cm",
+                      "priceModifier": 1500,
+                      "tailorPointsModifier": 0,
+                      "id": "6769a5494f1f6b16da145e2f"
+                    },
+                    {
+                      "answer": "L 5cm- 7cm",
+                      "priceModifier": 2000,
+                      "tailorPointsModifier": 0,
+                      "id": "6769a5494f1f6b16da145e31"
+                    },
+                    {
+                      "answer": "XL 7cm+",
+                      "priceModifier": 2500,
+                      "tailorPointsModifier": 0,
+                      "id": "6769a5494f1f6b16da145e33"
+                    }
+                  ],
+                  "id": "6769a5494f1f6b16da145e29"
+                },
+                {
+                  "question": "How thick is your knit?",
+                  "questionType": "radio",
+                  "option": [
+                    {
+                      "answer": "Fine Knit",
+                      "priceModifier": 2000,
+                      "tailorPointsModifier": 15,
+                      "id": "6769a5494f1f6b16da145e37"
+                    },
+                    {
+                      "answer": "Medium Knit",
+                      "priceModifier": 1000,
+                      "tailorPointsModifier": 0,
+                      "id": "6769a5494f1f6b16da145e39"
+                    },
+                    {
+                      "answer": "Chunky knit",
+                      "priceModifier": 0,
+                      "tailorPointsModifier": 0,
+                      "id": "6769a5494f1f6b16da145e3b"
+                    }
+                  ],
+                  "id": "6769a5494f1f6b16da145e35"
+                },
+                {
+                  "question": "What colour yarn would you like for your contrast?",
+                  "questionType": "radio",
+                  "option": [
+                    {
+                      "answer": "Red",
+                      "priceModifier": 0,
+                      "tailorPointsModifier": 0,
+                      "id": "6769a5da4f1f6b16da145e3e"
+                    },
+                    {
+                      "answer": "Blue",
+                      "priceModifier": 0,
+                      "tailorPointsModifier": 0,
+                      "id": "6769a5dd4f1f6b16da145e3f"
+                    },
+                    {
+                      "answer": "Yellow",
+                      "priceModifier": 0,
+                      "tailorPointsModifier": 0,
+                      "id": "6769a5de4f1f6b16da145e40"
+                    },
+                    {
+                      "answer": "Green",
+                      "priceModifier": 0,
+                      "tailorPointsModifier": 0,
+                      "id": "6769a5e04f1f6b16da145e41"
+                    },
+                    {
+                      "answer": "Orange",
+                      "priceModifier": 0,
+                      "tailorPointsModifier": 0,
+                      "id": "6769a5e34f1f6b16da145e42"
+                    },
+                    {
+                      "answer": "Black",
+                      "priceModifier": 0,
+                      "tailorPointsModifier": 0,
+                      "id": "6769a6134f1f6b16da145e43"
+                    },
+                    {
+                      "answer": "White",
+                      "priceModifier": 0,
+                      "tailorPointsModifier": 0,
+                      "id": "6769a61f4f1f6b16da145e44"
+                    }
+                  ],
+                  "id": "6769a5734f1f6b16da145e3d"
+                }
+              ],
+              "deadEnd": false,
+              "active": true,
+              "id": "6769a5494f1f6b16da145e0f"
+            },
+            {
+              "name": "Visibly darn holes",
+              "description": "",
+              "priceModifier": 500,
+              "tailorPointsModifier": 1,
+              "coverImage": {
+                "relationTo": "media",
+                "value": {
+                  "id": "676a99a12c7f3bf945ef1a61",
+                  "filename": "brown old visible darning.webp",
+                  "mimeType": "image/webp",
+                  "filesize": 93426,
+                  "width": 553,
+                  "height": 737,
+                  "focalX": 50,
+                  "focalY": 50,
+                  "createdAt": "2024-12-24T11:23:13.050Z",
+                  "updatedAt": "2024-12-24T11:23:13.050Z",
+                  "url": "/api/media/file/brown old visible darning.webp",
+                  "thumbnailURL": null
+                }
+              },
+              "questions": [
+                {
+                  "question": "How many holes do you need fixing?",
+                  "questionType": "radio",
+                  "option": [
+                    {
+                      "answer": "1",
+                      "priceModifier": 0,
+                      "tailorPointsModifier": 0,
+                      "id": "6769a2294f1f6b16da145db5"
+                    },
+                    {
+                      "answer": "2",
+                      "priceModifier": 1000,
+                      "tailorPointsModifier": 0,
+                      "id": "6769a2294f1f6b16da145db7"
+                    },
+                    {
+                      "answer": "3",
+                      "priceModifier": 2000,
+                      "tailorPointsModifier": 0,
+                      "id": "6769a2294f1f6b16da145db9"
+                    },
+                    {
+                      "answer": "4",
+                      "priceModifier": 3000,
+                      "tailorPointsModifier": 0,
+                      "id": "6769a2294f1f6b16da145dbb"
+                    },
+                    {
+                      "answer": "5",
+                      "priceModifier": 4000,
+                      "tailorPointsModifier": 0,
+                      "id": "6769a2294f1f6b16da145dbd"
+                    },
+                    {
+                      "answer": "6",
+                      "priceModifier": 5000,
+                      "tailorPointsModifier": 0,
+                      "id": "6769a2294f1f6b16da145dbf"
+                    },
+                    {
+                      "answer": "7",
+                      "priceModifier": 6000,
+                      "tailorPointsModifier": 0,
+                      "id": "6769a2294f1f6b16da145dc1"
+                    },
+                    {
+                      "answer": "8",
+                      "priceModifier": 7000,
+                      "tailorPointsModifier": 0,
+                      "id": "6769a2294f1f6b16da145dc3"
+                    },
+                    {
+                      "answer": "9",
+                      "priceModifier": 8000,
+                      "tailorPointsModifier": 0,
+                      "id": "6769a2294f1f6b16da145dc5"
+                    },
+                    {
+                      "answer": "10+",
+                      "priceModifier": 10000,
+                      "tailorPointsModifier": 0,
+                      "id": "6769a2294f1f6b16da145dc7"
+                    },
+                    {
+                      "answer": "20+ Knitwear Restoration",
+                      "priceModifier": 20000,
+                      "tailorPointsModifier": 0,
+                      "id": "6769a2294f1f6b16da145dc9"
+                    }
+                  ],
+                  "id": "6769a2294f1f6b16da145db3"
+                },
+                {
+                  "question": "What is the average size of your hole/s?",
+                  "questionType": "radio",
+                  "option": [
+                    {
+                      "answer": "XS 0- 1cm",
+                      "priceModifier": 0,
+                      "tailorPointsModifier": 0,
+                      "id": "6769a2294f1f6b16da145dcd"
+                    },
+                    {
+                      "answer": "S 1cm - 3cm",
+                      "priceModifier": 1000,
+                      "tailorPointsModifier": 0,
+                      "id": "6769a2294f1f6b16da145dcf"
+                    },
+                    {
+                      "answer": "M 3cm- 5cm",
+                      "priceModifier": 1500,
+                      "tailorPointsModifier": 0,
+                      "id": "6769a2294f1f6b16da145dd1"
+                    },
+                    {
+                      "answer": "L 5cm- 7cm",
+                      "priceModifier": 2000,
+                      "tailorPointsModifier": 0,
+                      "id": "6769a2294f1f6b16da145dd3"
+                    },
+                    {
+                      "answer": "XL 7cm+",
+                      "priceModifier": 2500,
+                      "tailorPointsModifier": 0,
+                      "id": "6769a2294f1f6b16da145dd5"
+                    }
+                  ],
+                  "id": "6769a2294f1f6b16da145dcb"
+                },
+                {
+                  "question": "How thick is your knit?",
+                  "questionType": "radio",
+                  "option": [
+                    {
+                      "answer": "Fine Knit",
+                      "priceModifier": 0,
+                      "tailorPointsModifier": 0,
+                      "id": "6769a2294f1f6b16da145dd9"
+                    },
+                    {
+                      "answer": "Medium Knit",
+                      "priceModifier": 0,
+                      "tailorPointsModifier": 0,
+                      "id": "6769a2294f1f6b16da145ddb"
+                    },
+                    {
+                      "answer": "Chunky knit",
+                      "priceModifier": 0,
+                      "tailorPointsModifier": 0,
+                      "id": "6769a2294f1f6b16da145ddd"
+                    }
+                  ],
+                  "id": "6769a2294f1f6b16da145dd7"
+                }
+              ],
+              "deadEnd": false,
+              "active": true,
+              "id": "6769a2294f1f6b16da145db1"
+            },
+            {
+              "name": "Visibly darn holes - Contrast Colour",
+              "description": "",
+              "priceModifier": 0,
+              "tailorPointsModifier": 0,
+              "coverImage": {
+                "relationTo": "media",
+                "value": {
+                  "id": "676a87682c7f3bf945ef060a",
+                  "filename": "visible darning contrast colour ganni.webp",
+                  "mimeType": "image/webp",
+                  "filesize": 750146,
+                  "width": 2748,
+                  "height": 3664,
+                  "focalX": 50,
+                  "focalY": 50,
+                  "createdAt": "2024-12-24T10:05:28.999Z",
+                  "updatedAt": "2024-12-24T10:05:28.999Z",
+                  "url": "/api/media/file/visible darning contrast colour ganni.webp",
+                  "thumbnailURL": null
+                }
+              },
+              "questions": [
+                {
+                  "question": "How many holes do you need fixing?",
+                  "questionType": "radio",
+                  "option": [
+                    {
+                      "answer": "1",
+                      "priceModifier": 0,
+                      "tailorPointsModifier": 0,
+                      "id": "6769a6334f1f6b16da145e4a"
+                    },
+                    {
+                      "answer": "2",
+                      "priceModifier": 1000,
+                      "tailorPointsModifier": 0,
+                      "id": "6769a6334f1f6b16da145e4c"
+                    },
+                    {
+                      "answer": "3",
+                      "priceModifier": 2000,
+                      "tailorPointsModifier": 0,
+                      "id": "6769a6334f1f6b16da145e4e"
+                    },
+                    {
+                      "answer": "4",
+                      "priceModifier": 3000,
+                      "tailorPointsModifier": 0,
+                      "id": "6769a6334f1f6b16da145e50"
+                    },
+                    {
+                      "answer": "5",
+                      "priceModifier": 4000,
+                      "tailorPointsModifier": 0,
+                      "id": "6769a6334f1f6b16da145e52"
+                    },
+                    {
+                      "answer": "6",
+                      "priceModifier": 5000,
+                      "tailorPointsModifier": 0,
+                      "id": "6769a6334f1f6b16da145e54"
+                    },
+                    {
+                      "answer": "7",
+                      "priceModifier": 6000,
+                      "tailorPointsModifier": 0,
+                      "id": "6769a6334f1f6b16da145e56"
+                    },
+                    {
+                      "answer": "8",
+                      "priceModifier": 7000,
+                      "tailorPointsModifier": 0,
+                      "id": "6769a6334f1f6b16da145e58"
+                    },
+                    {
+                      "answer": "9",
+                      "priceModifier": 8000,
+                      "tailorPointsModifier": 0,
+                      "id": "6769a6334f1f6b16da145e5a"
+                    },
+                    {
+                      "answer": "10+",
+                      "priceModifier": 10000,
+                      "tailorPointsModifier": 0,
+                      "id": "6769a6334f1f6b16da145e5c"
+                    },
+                    {
+                      "answer": "20+ Knitwear Restoration",
+                      "priceModifier": 20000,
+                      "tailorPointsModifier": 0,
+                      "id": "6769a6334f1f6b16da145e5e"
+                    }
+                  ],
+                  "id": "6769a6334f1f6b16da145e48"
+                },
+                {
+                  "question": "What is the average size of your hole/s?",
+                  "questionType": "radio",
+                  "option": [
+                    {
+                      "answer": "XS 0- 1cm",
+                      "priceModifier": 0,
+                      "tailorPointsModifier": 0,
+                      "id": "6769a6334f1f6b16da145e62"
+                    },
+                    {
+                      "answer": "S 1cm - 3cm",
+                      "priceModifier": 1000,
+                      "tailorPointsModifier": 0,
+                      "id": "6769a6334f1f6b16da145e64"
+                    },
+                    {
+                      "answer": "M 3cm- 5cm",
+                      "priceModifier": 1500,
+                      "tailorPointsModifier": 0,
+                      "id": "6769a6334f1f6b16da145e66"
+                    },
+                    {
+                      "answer": "L 5cm- 7cm",
+                      "priceModifier": 2000,
+                      "tailorPointsModifier": 0,
+                      "id": "6769a6334f1f6b16da145e68"
+                    },
+                    {
+                      "answer": "XL 7cm+",
+                      "priceModifier": 2500,
+                      "tailorPointsModifier": 0,
+                      "id": "6769a6334f1f6b16da145e6a"
+                    }
+                  ],
+                  "id": "6769a6334f1f6b16da145e60"
+                },
+                {
+                  "question": "How thick is your knit?",
+                  "questionType": "radio",
+                  "option": [
+                    {
+                      "answer": "Fine Knit",
+                      "priceModifier": 1500,
+                      "tailorPointsModifier": 15,
+                      "id": "6769a6334f1f6b16da145e6e"
+                    },
+                    {
+                      "answer": "Medium Knit",
+                      "priceModifier": 1000,
+                      "tailorPointsModifier": 0,
+                      "id": "6769a6334f1f6b16da145e70"
+                    },
+                    {
+                      "answer": "Chunky knit",
+                      "priceModifier": 0,
+                      "tailorPointsModifier": 0,
+                      "id": "6769a6334f1f6b16da145e72"
+                    }
+                  ],
+                  "id": "6769a6334f1f6b16da145e6c"
+                },
+                {
+                  "question": "What colour yarn would you like for your contrast?",
+                  "questionType": "radio",
+                  "option": [
+                    {
+                      "answer": "Red",
+                      "priceModifier": 0,
+                      "tailorPointsModifier": 0,
+                      "id": "6769a6824f1f6b16da145e75"
+                    },
+                    {
+                      "answer": "Blue",
+                      "priceModifier": 0,
+                      "tailorPointsModifier": 0,
+                      "id": "6769a6854f1f6b16da145e76"
+                    },
+                    {
+                      "answer": "Yellow",
+                      "priceModifier": 0,
+                      "tailorPointsModifier": 0,
+                      "id": "6769a68d4f1f6b16da145e77"
+                    },
+                    {
+                      "answer": "Green",
+                      "priceModifier": 0,
+                      "tailorPointsModifier": 0,
+                      "id": "6769a6934f1f6b16da145e78"
+                    },
+                    {
+                      "answer": "Black",
+                      "priceModifier": 0,
+                      "tailorPointsModifier": 0,
+                      "id": "6769a6994f1f6b16da145e79"
+                    },
+                    {
+                      "answer": "White",
+                      "priceModifier": 0,
+                      "tailorPointsModifier": 0,
+                      "id": "6769a69f4f1f6b16da145e7a"
+                    }
+                  ],
+                  "id": "6769a66d4f1f6b16da145e74"
+                }
+              ],
+              "deadEnd": false,
+              "active": true,
+              "id": "6769a6334f1f6b16da145e46"
+            },
+            {
+              "name": "Patch holes",
+              "description": "",
+              "priceModifier": 0,
+              "tailorPointsModifier": 0,
+              "coverImage": {
+                "relationTo": "media",
+                "value": {
+                  "id": "6758b9522c7f3bf945ebb63a",
+                  "filename": "knit patch.webp",
+                  "mimeType": "image/webp",
+                  "filesize": 923882,
+                  "width": 2528,
+                  "height": 3370,
+                  "focalX": 50,
+                  "focalY": 50,
+                  "createdAt": "2024-12-10T21:57:38.485Z",
+                  "updatedAt": "2024-12-10T21:57:38.485Z",
+                  "url": "/api/media/file/knit patch.webp",
+                  "thumbnailURL": null
+                }
+              },
+              "questions": [
+                {
+                  "question": "How many holes do you need fixing?",
+                  "questionType": "radio",
+                  "option": [
+                    {
+                      "answer": "1",
+                      "priceModifier": 0,
+                      "tailorPointsModifier": 0,
+                      "id": "6769a2ea4f1f6b16da145de4"
+                    },
+                    {
+                      "answer": "2",
+                      "priceModifier": 500,
+                      "tailorPointsModifier": 0,
+                      "id": "6769a2ea4f1f6b16da145de6"
+                    },
+                    {
+                      "answer": "3",
+                      "priceModifier": 1000,
+                      "tailorPointsModifier": 0,
+                      "id": "6769a2ea4f1f6b16da145de8"
+                    },
+                    {
+                      "answer": "4",
+                      "priceModifier": 1500,
+                      "tailorPointsModifier": 0,
+                      "id": "6769a2ea4f1f6b16da145dea"
+                    },
+                    {
+                      "answer": "5",
+                      "priceModifier": 2000,
+                      "tailorPointsModifier": 0,
+                      "id": "6769a2ea4f1f6b16da145dec"
+                    },
+                    {
+                      "answer": "6",
+                      "priceModifier": 2500,
+                      "tailorPointsModifier": 0,
+                      "id": "6769a2ea4f1f6b16da145dee"
+                    },
+                    {
+                      "answer": "7",
+                      "priceModifier": 3000,
+                      "tailorPointsModifier": 0,
+                      "id": "6769a2ea4f1f6b16da145df0"
+                    },
+                    {
+                      "answer": "8",
+                      "priceModifier": 3500,
+                      "tailorPointsModifier": 0,
+                      "id": "6769a2ea4f1f6b16da145df2"
+                    },
+                    {
+                      "answer": "9",
+                      "priceModifier": 4000,
+                      "tailorPointsModifier": 0,
+                      "id": "6769a2ea4f1f6b16da145df4"
+                    },
+                    {
+                      "answer": "10+",
+                      "priceModifier": 6500,
+                      "tailorPointsModifier": 0,
+                      "id": "6769a2ea4f1f6b16da145df6"
+                    }
+                  ],
+                  "id": "6769a2ea4f1f6b16da145de2"
+                }
+              ],
+              "deadEnd": false,
+              "active": true,
+              "id": "6769a2ea4f1f6b16da145de0"
+            }
+          ],
+          "deadEnd": false,
+          "active": true,
+          "id": "67699ba04f1f6b16da145d6a"
+        },
+        {
+          "name": "Elbow patches",
+          "description": "Are the elbows of your jumper becoming thin for gained new holes? We can patch these with elbow patches.",
+          "serviceType": "repair",
+          "fittingChoices": [],
+          "price": 1500,
+          "tailorPoints": 6,
+          "coverImage": {
+            "relationTo": "media",
+            "value": {
+              "id": "676a99ce2c7f3bf945ef1ad2",
+              "filename": "knitwear elbow patch.webp",
+              "mimeType": "image/webp",
+              "filesize": 67390,
+              "width": 524,
+              "height": 698,
+              "focalX": 50,
+              "focalY": 50,
+              "createdAt": "2024-12-24T11:23:58.741Z",
+              "updatedAt": "2024-12-24T11:23:58.741Z",
+              "url": "/api/media/file/knitwear elbow patch.webp",
+              "thumbnailURL": null
+            }
+          },
+          "questions": [
+            {
+              "question": "What colour would you like?",
+              "questionType": "text",
+              "option": [],
+              "id": "67682f03a3cd720001f25c41"
+            }
+          ],
+          "subservices": [],
+          "deadEnd": false,
+          "active": true,
+          "id": "67682f03a3cd720001f25c29"
+        },
+        {
+          "name": "Fix frayed edges",
+          "description": "We can restore the frayed edges of your sleeves or the bottom of your jumper",
+          "serviceType": "repair",
+          "fittingChoices": [],
+          "price": 1500,
+          "tailorPoints": 6,
+          "coverImage": {
+            "relationTo": "media",
+            "value": {
+              "id": "676a9a322c7f3bf945ef1c66",
+              "filename": "3-7 cm fray.webp",
+              "mimeType": "image/webp",
+              "filesize": 393420,
+              "width": 2539,
+              "height": 3386,
+              "focalX": 50,
+              "focalY": 50,
+              "createdAt": "2024-12-24T11:25:38.606Z",
+              "updatedAt": "2024-12-24T11:25:38.606Z",
+              "url": "/api/media/file/3-7 cm fray.webp",
+              "thumbnailURL": null
+            }
+          },
+          "questions": [
+            {
+              "question": "Which are of your jumper would you like fixing?",
+              "explainer": "We can fix the sleeves the bottom of the jumper or the neck line",
+              "questionType": "radio",
+              "option": [
+                {
+                  "answer": "Both sleeves",
+                  "priceModifier": 2000,
+                  "tailorPointsModifier": 4,
+                  "id": "67682f03a3cd720001f25c7a"
+                },
+                {
+                  "answer": "One sleeve",
+                  "priceModifier": 1000,
+                  "tailorPointsModifier": 4,
+                  "id": "67682f03a3cd720001f25c7b"
+                },
+                {
+                  "answer": "Bottom of jumper",
+                  "priceModifier": 1000,
+                  "tailorPointsModifier": 4,
+                  "id": "67682f03a3cd720001f25c7c"
+                },
+                {
+                  "answer": "Neckline ",
+                  "priceModifier": 1000,
+                  "tailorPointsModifier": 3,
+                  "id": "67682f03a3cd720001f25c7d"
+                }
+              ],
+              "id": "67682f03a3cd720001f25c42"
+            }
+          ],
+          "subservices": [
+            {
+              "name": "Fix small frayed edge (0-2cm)",
+              "priceModifier": 0,
+              "tailorPointsModifier": 0,
+              "coverImage": {
+                "relationTo": "media",
+                "value": {
+                  "id": "676a9a1b2c7f3bf945ef1b96",
+                  "filename": "0-2sm fray.webp",
+                  "mimeType": "image/webp",
+                  "filesize": 157768,
+                  "width": 1913,
+                  "height": 2551,
+                  "focalX": 50,
+                  "focalY": 50,
+                  "createdAt": "2024-12-24T11:25:15.509Z",
+                  "updatedAt": "2024-12-24T11:25:15.509Z",
+                  "url": "/api/media/file/0-2sm fray.webp",
+                  "thumbnailURL": null
+                }
+              },
+              "questions": [],
+              "deadEnd": false,
+              "active": true,
+              "id": "67682f03a3cd720001f25c43"
+            },
+            {
+              "name": "Fix medium frayed edge (3-7cm)",
+              "priceModifier": 500,
+              "tailorPointsModifier": 2,
+              "coverImage": {
+                "relationTo": "media",
+                "value": {
+                  "id": "676a9a322c7f3bf945ef1c66",
+                  "filename": "3-7 cm fray.webp",
+                  "mimeType": "image/webp",
+                  "filesize": 393420,
+                  "width": 2539,
+                  "height": 3386,
+                  "focalX": 50,
+                  "focalY": 50,
+                  "createdAt": "2024-12-24T11:25:38.606Z",
+                  "updatedAt": "2024-12-24T11:25:38.606Z",
+                  "url": "/api/media/file/3-7 cm fray.webp",
+                  "thumbnailURL": null
+                }
+              },
+              "questions": [],
+              "deadEnd": false,
+              "active": true,
+              "id": "67682f03a3cd720001f25c44"
+            },
+            {
+              "name": "Fix large frayed edge (7cm+)",
+              "priceModifier": 1000,
+              "tailorPointsModifier": 3,
+              "coverImage": {
+                "relationTo": "media",
+                "value": {
+                  "id": "676a9a462c7f3bf945ef1cbb",
+                  "filename": "7+ cm fray.webp",
+                  "mimeType": "image/webp",
+                  "filesize": 337250,
+                  "width": 2309,
+                  "height": 3079,
+                  "focalX": 50,
+                  "focalY": 50,
+                  "createdAt": "2024-12-24T11:25:58.559Z",
+                  "updatedAt": "2024-12-24T11:25:58.559Z",
+                  "url": "/api/media/file/7+ cm fray.webp",
+                  "thumbnailURL": null
+                }
+              },
+              "questions": [],
+              "deadEnd": false,
+              "active": true,
+              "id": "67682f03a3cd720001f25c45"
+            }
+          ],
+          "deadEnd": false,
+          "active": true,
+          "id": "67682f03a3cd720001f25c2a"
+        },
+        {
+          "name": "Fix rip along seam",
+          "description": "If the seam has come apart ",
+          "serviceType": "repair",
+          "fittingChoices": [],
+          "price": 1500,
+          "tailorPoints": 6,
+          "coverImage": {
+            "relationTo": "media",
+            "value": {
+              "id": "676a9a652c7f3bf945ef1daa",
+              "filename": "knitwear rip along seam.webp",
+              "mimeType": "image/webp",
+              "filesize": 1076500,
+              "width": 2680,
+              "height": 3574,
+              "focalX": 50,
+              "focalY": 50,
+              "createdAt": "2024-12-24T11:26:29.992Z",
+              "updatedAt": "2024-12-24T11:26:29.992Z",
+              "url": "/api/media/file/knitwear rip along seam.webp",
+              "thumbnailURL": null
+            }
+          },
+          "questions": [],
+          "subservices": [
+            {
+              "name": "Fix small seam rip (0-2cm)",
+              "priceModifier": 0,
+              "tailorPointsModifier": 0,
+              "coverImage": {
+                "relationTo": "media",
+                "value": {
+                  "id": "676a9abe2c7f3bf945ef1e64",
+                  "filename": "small knit rip along seam.webp",
+                  "mimeType": "image/webp",
+                  "filesize": 579382,
+                  "width": 2404,
+                  "height": 3205,
+                  "focalX": 50,
+                  "focalY": 50,
+                  "createdAt": "2024-12-24T11:27:58.379Z",
+                  "updatedAt": "2024-12-24T11:27:58.379Z",
+                  "url": "/api/media/file/small knit rip along seam.webp",
+                  "thumbnailURL": null
+                }
+              },
+              "questions": [],
+              "deadEnd": false,
+              "active": true,
+              "id": "67682f03a3cd720001f25c46"
+            },
+            {
+              "name": "Fix medium seam rip (3-7cm)",
+              "priceModifier": 500,
+              "tailorPointsModifier": 2,
+              "coverImage": {
+                "relationTo": "media",
+                "value": {
+                  "id": "676a9a652c7f3bf945ef1daa",
+                  "filename": "knitwear rip along seam.webp",
+                  "mimeType": "image/webp",
+                  "filesize": 1076500,
+                  "width": 2680,
+                  "height": 3574,
+                  "focalX": 50,
+                  "focalY": 50,
+                  "createdAt": "2024-12-24T11:26:29.992Z",
+                  "updatedAt": "2024-12-24T11:26:29.992Z",
+                  "url": "/api/media/file/knitwear rip along seam.webp",
+                  "thumbnailURL": null
+                }
+              },
+              "questions": [],
+              "deadEnd": false,
+              "active": true,
+              "id": "67682f03a3cd720001f25c47"
+            },
+            {
+              "name": "Fix large seam rip (7cm+)",
+              "priceModifier": 1000,
+              "tailorPointsModifier": 3,
+              "coverImage": {
+                "relationTo": "media",
+                "value": {
+                  "id": "676aa31b2c7f3bf945ef2968",
+                  "filename": "black 7+ seam rip.webp",
+                  "mimeType": "image/webp",
+                  "filesize": 526262,
+                  "width": 2261,
+                  "height": 3015,
+                  "focalX": 50,
+                  "focalY": 50,
+                  "createdAt": "2024-12-24T12:03:39.540Z",
+                  "updatedAt": "2024-12-24T12:03:39.540Z",
+                  "url": "/api/media/file/black 7+ seam rip.webp",
+                  "thumbnailURL": null
+                }
+              },
+              "questions": [],
+              "deadEnd": false,
+              "active": true,
+              "id": "67682f03a3cd720001f25c48"
+            }
+          ],
+          "deadEnd": false,
+          "active": true,
+          "id": "67682f03a3cd720001f25c2b"
+        },
+        {
+          "name": "Replace buttons / poppers ",
+          "description": "We can source a close match button or source the same buttons if possible",
+          "serviceType": "repair",
+          "fittingChoices": [],
+          "price": 750,
+          "tailorPoints": 2,
+          "coverImage": {
+            "relationTo": "media",
+            "value": {
+              "id": "676a9b0c2c7f3bf945ef1f4b",
+              "filename": "knitwear replace button.webp",
+              "mimeType": "image/webp",
+              "filesize": 315494,
+              "width": 2059,
+              "height": 2746,
+              "focalX": 50,
+              "focalY": 50,
+              "createdAt": "2024-12-24T11:29:16.348Z",
+              "updatedAt": "2024-12-24T11:29:16.348Z",
+              "url": "/api/media/file/knitwear replace button.webp",
+              "thumbnailURL": null
+            }
+          },
+          "questions": [
+            {
+              "question": "How many buttons would you like replacing?",
+              "questionType": "radio",
+              "option": [
+                {
+                  "answer": "1",
+                  "priceModifier": 0,
+                  "tailorPointsModifier": 0,
+                  "id": "67682f03a3cd720001f25c7e"
+                },
+                {
+                  "answer": "2",
+                  "priceModifier": 750,
+                  "tailorPointsModifier": 0,
+                  "id": "67682f03a3cd720001f25c7f"
+                },
+                {
+                  "answer": "3",
+                  "priceModifier": 1500,
+                  "tailorPointsModifier": 1,
+                  "id": "67682f03a3cd720001f25c80"
+                },
+                {
+                  "answer": "4",
+                  "priceModifier": 2000,
+                  "tailorPointsModifier": 2,
+                  "id": "67682f03a3cd720001f25c81"
+                },
+                {
+                  "answer": "5",
+                  "priceModifier": 2500,
+                  "tailorPointsModifier": 3,
+                  "id": "67682f03a3cd720001f25c82"
+                },
+                {
+                  "answer": "6",
+                  "priceModifier": 3000,
+                  "tailorPointsModifier": 3,
+                  "id": "67682f03a3cd720001f25c83"
+                },
+                {
+                  "answer": "7",
+                  "priceModifier": 3500,
+                  "tailorPointsModifier": 4,
+                  "id": "67682f03a3cd720001f25c84"
+                },
+                {
+                  "answer": "8",
+                  "priceModifier": 4000,
+                  "tailorPointsModifier": 4,
+                  "id": "67682f03a3cd720001f25c85"
+                },
+                {
+                  "answer": "9",
+                  "priceModifier": 4500,
+                  "tailorPointsModifier": 5,
+                  "id": "67682f03a3cd720001f25c86"
+                },
+                {
+                  "answer": "10",
+                  "priceModifier": 5000,
+                  "tailorPointsModifier": 5,
+                  "id": "67682f03a3cd720001f25c87"
+                }
+              ],
+              "id": "67682f03a3cd720001f25c49"
+            }
+          ],
+          "subservices": [],
+          "deadEnd": false,
+          "active": true,
+          "id": "67682f03a3cd720001f25c2c"
+        },
+        {
+          "name": "Re-attach buttons / poppers ",
+          "description": "",
+          "serviceType": "repair",
+          "fittingChoices": [],
+          "price": 500,
+          "tailorPoints": 2,
+          "coverImage": {
+            "relationTo": "media",
+            "value": {
+              "id": "67698cb92c7f3bf945ee2586",
+              "filename": "Reattach button.webp",
+              "mimeType": "image/webp",
+              "filesize": 183542,
+              "width": 1948,
+              "height": 2597,
+              "focalX": 50,
+              "focalY": 50,
+              "createdAt": "2024-12-23T16:15:53.369Z",
+              "updatedAt": "2024-12-23T16:15:53.369Z",
+              "url": "/api/media/file/Reattach button.webp",
+              "thumbnailURL": null
+            }
+          },
+          "questions": [
+            {
+              "question": "How many buttons would you like replacing?",
+              "questionType": "radio",
+              "option": [
+                {
+                  "answer": "1",
+                  "priceModifier": 0,
+                  "tailorPointsModifier": 0,
+                  "id": "67682f03a3cd720001f25c88"
+                },
+                {
+                  "answer": "2",
+                  "priceModifier": 500,
+                  "tailorPointsModifier": 0,
+                  "id": "67682f03a3cd720001f25c89"
+                },
+                {
+                  "answer": "3",
+                  "priceModifier": 1000,
+                  "tailorPointsModifier": 1,
+                  "id": "67682f03a3cd720001f25c8a"
+                },
+                {
+                  "answer": "4",
+                  "priceModifier": 1500,
+                  "tailorPointsModifier": 1,
+                  "id": "67682f03a3cd720001f25c8b"
+                },
+                {
+                  "answer": "5",
+                  "priceModifier": 2000,
+                  "tailorPointsModifier": 2,
+                  "id": "67682f03a3cd720001f25c8c"
+                },
+                {
+                  "answer": "6",
+                  "priceModifier": 2500,
+                  "tailorPointsModifier": 3,
+                  "id": "67682f03a3cd720001f25c8d"
+                },
+                {
+                  "answer": "7",
+                  "priceModifier": 3000,
+                  "tailorPointsModifier": 3,
+                  "id": "67682f03a3cd720001f25c8e"
+                },
+                {
+                  "answer": "8",
+                  "priceModifier": 3500,
+                  "tailorPointsModifier": 4,
+                  "id": "67682f03a3cd720001f25c8f"
+                },
+                {
+                  "answer": "9",
+                  "priceModifier": 4000,
+                  "tailorPointsModifier": 4,
+                  "id": "67682f03a3cd720001f25c90"
+                },
+                {
+                  "answer": "10",
+                  "priceModifier": 4500,
+                  "tailorPointsModifier": 5,
+                  "id": "67682f03a3cd720001f25c91"
+                }
+              ],
+              "id": "67682f03a3cd720001f25c4a"
+            }
+          ],
+          "subservices": [],
+          "deadEnd": false,
+          "active": true,
+          "id": "67682f03a3cd720001f25c2d"
+        },
+        {
+          "name": "Fix pulls in jumper ",
+          "description": "Have small threads been caught and pulled we can fix these!",
+          "serviceType": "repair",
+          "fittingChoices": [],
+          "price": 500,
+          "tailorPoints": 3,
+          "coverImage": {
+            "relationTo": "media",
+            "value": {
+              "id": "6758ba002c7f3bf945ebb6c0",
+              "filename": "purple knit pull.webp",
+              "mimeType": "image/webp",
+              "filesize": 559938,
+              "width": 1730,
+              "height": 2307,
+              "focalX": 50,
+              "focalY": 50,
+              "createdAt": "2024-12-10T22:00:32.427Z",
+              "updatedAt": "2024-12-10T22:00:32.427Z",
+              "url": "/api/media/file/purple knit pull.webp",
+              "thumbnailURL": null
+            }
+          },
+          "questions": [
+            {
+              "question": "How many pulls would you like to fix?",
+              "questionType": "radio",
+              "option": [
+                {
+                  "answer": "1",
+                  "priceModifier": 0,
+                  "tailorPointsModifier": 1,
+                  "id": "67682f03a3cd720001f25c92"
+                },
+                {
+                  "answer": "2-3",
+                  "priceModifier": 500,
+                  "tailorPointsModifier": 2,
+                  "id": "67682f03a3cd720001f25c93"
+                },
+                {
+                  "answer": "4-5",
+                  "priceModifier": 1000,
+                  "tailorPointsModifier": 3,
+                  "id": "67682f03a3cd720001f25c94"
+                },
+                {
+                  "answer": "6-7",
+                  "priceModifier": 1500,
+                  "tailorPointsModifier": 4,
+                  "id": "67682f03a3cd720001f25c95"
+                },
+                {
+                  "answer": "8-9",
+                  "priceModifier": 2000,
+                  "tailorPointsModifier": 5,
+                  "id": "67682f03a3cd720001f25c96"
+                },
+                {
+                  "answer": "10+",
+                  "priceModifier": 2500,
+                  "tailorPointsModifier": 6,
+                  "id": "67682f03a3cd720001f25c97"
+                }
+              ],
+              "id": "67682f03a3cd720001f25c4b"
+            }
+          ],
+          "subservices": [],
+          "deadEnd": false,
+          "active": true,
+          "id": "67682f03a3cd720001f25c2e"
+        },
+        {
+          "name": "De-pilling ",
+          "description": "We can remove all pilling from your jumper/ cardigan ",
+          "serviceType": "repair",
+          "fittingChoices": [],
+          "price": 2500,
+          "tailorPoints": 0,
+          "coverImage": {
+            "relationTo": "media",
+            "value": {
+              "id": "676a9b2d2c7f3bf945ef1fcf",
+              "filename": "depilling.webp",
+              "mimeType": "image/webp",
+              "filesize": 385158,
+              "width": 2698,
+              "height": 3598,
+              "focalX": 50,
+              "focalY": 50,
+              "createdAt": "2024-12-24T11:29:49.007Z",
+              "updatedAt": "2024-12-24T11:29:49.007Z",
+              "url": "/api/media/file/depilling.webp",
+              "thumbnailURL": null
+            }
+          },
+          "questions": [
+            {
+              "question": "Would you like de-pill the whole garment or just a small area?",
+              "questionType": "radio",
+              "option": [
+                {
+                  "answer": "Whole jumper/ cardigan",
+                  "priceModifier": 2500,
+                  "tailorPointsModifier": 7,
+                  "id": "67682f03a3cd720001f25c98"
+                },
+                {
+                  "answer": "Small area ",
+                  "priceModifier": 0,
+                  "tailorPointsModifier": 4,
+                  "id": "67682f03a3cd720001f25c99"
+                }
+              ],
+              "id": "67682f03a3cd720001f25c4c"
+            }
+          ],
+          "subservices": [],
+          "deadEnd": false,
+          "active": true,
+          "id": "67682f03a3cd720001f25c2f"
+        }
+      ],
+      "active": true,
+      "createdAt": "2024-12-22T15:23:47.371Z"
+    },
+    {
+      "id": "674842130b26fa77f9da1151",
+      "name": "Hoodie",
+      "itemCategory": [
+        {
+          "id": "674837750b26fa77f9da1072",
+          "name": "Jumpers",
+          "createdAt": "2024-11-28T09:27:17.421Z",
+          "updatedAt": "2024-12-06T16:09:27.479Z",
+          "coverImage": {
+            "relationTo": "media",
+            "value": {
+              "id": "675321b362c21f38e94e578f",
+              "filename": "Knit jumper.webp",
+              "mimeType": "image/webp",
+              "filesize": 300694,
+              "width": 1920,
+              "height": 2496,
+              "focalX": 50,
+              "focalY": 50,
+              "createdAt": "2024-12-06T16:09:23.257Z",
+              "updatedAt": "2024-12-06T16:09:23.257Z",
+              "url": "/api/media/file/Knit jumper.webp",
+              "thumbnailURL": null
+            }
+          }
+        },
+        {
+          "id": "6762f7f82c7f3bf945ed5dd8",
+          "name": "Hoodie/ sweatshirt",
+          "createdAt": "2024-12-18T16:27:36.249Z",
+          "updatedAt": "2024-12-24T12:29:55.663Z",
+          "coverImage": {
+            "relationTo": "media",
+            "value": {
+              "id": "676aa88a2c7f3bf945ef3b50",
+              "filename": "Hoodie M&S.webp",
+              "mimeType": "image/webp",
+              "filesize": 180446,
+              "width": 1920,
+              "height": 2496,
+              "focalX": 50,
+              "focalY": 50,
+              "createdAt": "2024-12-24T12:26:50.580Z",
+              "updatedAt": "2024-12-24T12:26:50.580Z",
+              "url": "/api/media/file/Hoodie M&S.webp",
+              "thumbnailURL": null
+            }
+          }
+        }
+      ],
+      "questions": [],
+      "services": [
+        {
+          "name": "Shorten Sleeves",
+          "description": "Reduces the sleeve length  while maintaining the original finish and shape where possible.",
+          "serviceType": "alteration",
+          "fittingChoices": [
+            "match",
+            "pin",
+            "measure"
+          ],
+          "price": 3000,
+          "tailorPoints": 6,
+          "coverImage": {
+            "relationTo": "media",
+            "value": {
+              "id": "6769e7722c7f3bf945ee8f9e",
+              "filename": "hoodie shorten sleeves.webp",
+              "mimeType": "image/webp",
+              "filesize": 956878,
+              "width": 3026,
+              "height": 4034,
+              "focalX": 50,
+              "focalY": 50,
+              "createdAt": "2024-12-23T22:42:58.497Z",
+              "updatedAt": "2024-12-23T22:42:58.497Z",
+              "url": "/api/media/file/hoodie shorten sleeves.webp",
+              "thumbnailURL": null
+            }
+          },
+          "questions": [],
+          "subservices": [],
+          "deadEnd": false,
+          "active": true,
+          "id": "67484213562a6e0001ce2b5f"
+        },
+        {
+          "name": "Crop",
+          "description": "Reduces the length while maintaining the original finish and shape where possible.",
+          "serviceType": "alteration",
+          "fittingChoices": [
+            "match",
+            "pin",
+            "measure"
+          ],
+          "price": 3000,
+          "tailorPoints": 9,
+          "coverImage": {
+            "relationTo": "media",
+            "value": {
+              "id": "6769e7882c7f3bf945ee8fc0",
+              "filename": "hoodie crop.webp",
+              "mimeType": "image/webp",
+              "filesize": 541908,
+              "width": 2354,
+              "height": 3139,
+              "focalX": 50,
+              "focalY": 50,
+              "createdAt": "2024-12-23T22:43:20.683Z",
+              "updatedAt": "2024-12-23T22:43:20.683Z",
+              "url": "/api/media/file/hoodie crop.webp",
+              "thumbnailURL": null
+            }
+          },
+          "questions": [],
+          "subservices": [],
+          "deadEnd": false,
+          "active": true,
+          "id": "674848f0d8def692e4f4b664"
+        },
+        {
+          "name": "Take in from Sides",
+          "description": "Reduces the width through the side seams, this can be altered by usually a maximum of 2 inches to ensure a balance in the overall shape.",
+          "serviceType": "alteration",
+          "fittingChoices": [
+            "match",
+            "pin",
+            "measure"
+          ],
+          "price": 3500,
+          "tailorPoints": 9,
+          "coverImage": {
+            "relationTo": "media",
+            "value": {
+              "id": "6769e79d2c7f3bf945ee8fe7",
+              "filename": "hoodie take in from sides.webp",
+              "mimeType": "image/webp",
+              "filesize": 648364,
+              "width": 2857,
+              "height": 3809,
+              "focalX": 50,
+              "focalY": 50,
+              "createdAt": "2024-12-23T22:43:41.523Z",
+              "updatedAt": "2024-12-23T22:43:41.523Z",
+              "url": "/api/media/file/hoodie take in from sides.webp",
+              "thumbnailURL": null
+            }
+          },
+          "questions": [
+            {
+              "question": "Does your Top have lining?",
+              "explainer": "This is a layer of material inside the top separate to the outer layer ",
+              "questionType": "radio",
+              "option": [
+                {
+                  "answer": "Yes",
+                  "priceModifier": 700,
+                  "tailorPointsModifier": 2,
+                  "id": "6751fe6ddd03bf35d0000af6"
+                },
+                {
+                  "answer": "No",
+                  "priceModifier": 0,
+                  "tailorPointsModifier": 0,
+                  "id": "6751fe80dd03bf35d0000af7"
+                }
+              ],
+              "id": "6751fe4add03bf35d0000af5"
+            }
+          ],
+          "subservices": [],
+          "deadEnd": false,
+          "active": true,
+          "id": "6748498fd8def692e4f4b668"
+        },
+        {
+          "name": "Zip replacement ",
+          "description": "Ideal for when your zipper is damaged, stuck or no longer functions correctly. We have a stock of standard zips and can not guarantee an exact match to the original.",
+          "serviceType": "repair",
+          "fittingChoices": [],
+          "price": 2500,
+          "tailorPoints": 5,
+          "coverImage": {
+            "relationTo": "media",
+            "value": {
+              "id": "6769e7b92c7f3bf945ee9010",
+              "filename": "hoodie zip replacement.webp",
+              "mimeType": "image/webp",
+              "filesize": 665132,
+              "width": 2585,
+              "height": 3446,
+              "focalX": 50,
+              "focalY": 50,
+              "createdAt": "2024-12-23T22:44:09.233Z",
+              "updatedAt": "2024-12-23T22:44:09.233Z",
+              "url": "/api/media/file/hoodie zip replacement.webp",
+              "thumbnailURL": null
+            }
+          },
+          "questions": [
+            {
+              "question": "Would you like the main zip replaced or a smaller zip replaced?",
+              "questionType": "radio",
+              "option": [
+                {
+                  "answer": "Main zip",
+                  "priceModifier": 1500,
+                  "tailorPointsModifier": 3,
+                  "id": "6751e828dd03bf35d0000a94"
+                },
+                {
+                  "answer": "Small zip",
+                  "priceModifier": 0,
+                  "tailorPointsModifier": 0,
+                  "id": "6751e83add03bf35d0000a95"
+                }
+              ],
+              "id": "6751e801dd03bf35d0000a93"
+            }
+          ],
+          "subservices": [
+            {
+              "name": "Source bespoke zip",
+              "description": "We are not always able to find an exact match but we will source the closest match. We cannot guarantee pullers will be the same. This will likely mean the turn-around time will be longer while we order. ",
+              "priceModifier": 1500,
+              "tailorPointsModifier": 0,
+              "coverImage": {
+                "relationTo": "media",
+                "value": {
+                  "id": "67cda34790e89d9197ebe2a1",
+                  "filename": "Bespoke zip.jpeg",
+                  "mimeType": "image/jpeg",
+                  "filesize": 41790,
+                  "width": 465,
+                  "height": 249,
+                  "focalX": 50,
+                  "focalY": 50,
+                  "createdAt": "2025-03-09T14:18:47.963Z",
+                  "updatedAt": "2025-03-09T14:18:47.963Z",
+                  "url": "/api/media/file/Bespoke zip.jpeg",
+                  "thumbnailURL": null
+                }
+              },
+              "questions": [],
+              "deadEnd": false,
+              "active": true,
+              "id": "67c47e6ce048c77f01f5601a"
+            },
+            {
+              "name": "Zip colour - Standard Black",
+              "description": "We will match the type of zip eg plastic, metal, waterproof, invisible ",
+              "priceModifier": 0,
+              "tailorPointsModifier": 0,
+              "coverImage": {
+                "relationTo": "media",
+                "value": {
+                  "id": "67cda35590e89d9197ebe2f3",
+                  "filename": "Black-1.jpeg",
+                  "mimeType": "image/jpeg",
+                  "filesize": 99280,
+                  "width": 1979,
+                  "height": 737,
+                  "focalX": 50,
+                  "focalY": 50,
+                  "createdAt": "2025-03-09T14:19:01.029Z",
+                  "updatedAt": "2025-03-09T14:19:01.029Z",
+                  "url": "/api/media/file/Black-1.jpeg",
+                  "thumbnailURL": null
+                }
+              },
+              "questions": [],
+              "deadEnd": false,
+              "active": true,
+              "id": "67c47dace048c77f01f56018"
+            },
+            {
+              "name": "Zip colour - Standard Navy",
+              "description": "We will match the type of zip eg plastic, metal, waterproof, invisible ",
+              "priceModifier": 0,
+              "tailorPointsModifier": 0,
+              "coverImage": {
+                "relationTo": "media",
+                "value": {
+                  "id": "67cda36090e89d9197ebe344",
+                  "filename": "Navy.JPG",
+                  "mimeType": "image/jpeg",
+                  "filesize": 136782,
+                  "width": 1979,
+                  "height": 737,
+                  "focalX": 50,
+                  "focalY": 50,
+                  "createdAt": "2025-03-09T14:19:12.431Z",
+                  "updatedAt": "2025-03-09T14:19:12.431Z",
+                  "url": "/api/media/file/Navy.JPG",
+                  "thumbnailURL": null
+                }
+              },
+              "questions": [],
+              "deadEnd": false,
+              "active": true,
+              "id": "67c47e5be048c77f01f56019"
+            },
+            {
+              "name": "Zip colour - Standard Green",
+              "description": "We will match the type of zip eg plastic, metal, waterproof, invisible ",
+              "priceModifier": 0,
+              "tailorPointsModifier": 0,
+              "coverImage": {
+                "relationTo": "media",
+                "value": {
+                  "id": "67cda37390e89d9197ebe396",
+                  "filename": "Green.JPG",
+                  "mimeType": "image/jpeg",
+                  "filesize": 223186,
+                  "width": 1560,
+                  "height": 606,
+                  "focalX": 50,
+                  "focalY": 50,
+                  "createdAt": "2025-03-09T14:19:31.751Z",
+                  "updatedAt": "2025-03-09T14:19:31.751Z",
+                  "url": "/api/media/file/Green.JPG",
+                  "thumbnailURL": null
+                }
+              },
+              "questions": [],
+              "deadEnd": false,
+              "active": true,
+              "id": "67c47ed4e048c77f01f5601c"
+            },
+            {
+              "name": "Zip colour - Standard Red",
+              "description": "We will match the type of zip eg plastic, metal, waterproof, invisible ",
+              "priceModifier": 0,
+              "tailorPointsModifier": 0,
+              "coverImage": {
+                "relationTo": "media",
+                "value": {
+                  "id": "67cda38290e89d9197ebe40e",
+                  "filename": "Red.JPG",
+                  "mimeType": "image/jpeg",
+                  "filesize": 166580,
+                  "width": 1602,
+                  "height": 703,
+                  "focalX": 50,
+                  "focalY": 50,
+                  "createdAt": "2025-03-09T14:19:46.815Z",
+                  "updatedAt": "2025-03-09T14:19:46.815Z",
+                  "url": "/api/media/file/Red.JPG",
+                  "thumbnailURL": null
+                }
+              },
+              "questions": [],
+              "deadEnd": false,
+              "active": true,
+              "id": "67c47edbe048c77f01f5601d"
+            },
+            {
+              "name": "Zip colour - Standard Grey",
+              "description": "We will match the type of zip eg plastic, metal, waterproof, invisible ",
+              "priceModifier": 0,
+              "tailorPointsModifier": 0,
+              "coverImage": {
+                "relationTo": "media",
+                "value": {
+                  "id": "67cda38d90e89d9197ebe486",
+                  "filename": "Grey zip compressed.jpg",
+                  "mimeType": "image/jpeg",
+                  "filesize": 178545,
+                  "width": 1985,
+                  "height": 732,
+                  "focalX": 50,
+                  "focalY": 50,
+                  "createdAt": "2025-03-09T14:19:57.589Z",
+                  "updatedAt": "2025-03-09T14:19:57.589Z",
+                  "url": "/api/media/file/Grey zip compressed.jpg",
+                  "thumbnailURL": null
+                }
+              },
+              "questions": [],
+              "deadEnd": false,
+              "active": true,
+              "id": "67c47ef4e048c77f01f5601e"
+            }
+          ],
+          "deadEnd": false,
+          "active": true,
+          "id": "6751e7addd03bf35d0000a92"
+        },
+        {
+          "name": "Up-size",
+          "description": "Increase the width or length of your garment ",
+          "serviceType": "alteration",
+          "fittingChoices": [
+            "match",
+            "measure"
+          ],
+          "price": 3000,
+          "tailorPoints": 6,
+          "coverImage": {
+            "relationTo": "media",
+            "value": {
+              "id": "6769dc4c2c7f3bf945ee85cc",
+              "filename": "upsize trousers no drawstrings.webp",
+              "mimeType": "image/webp",
+              "filesize": 205738,
+              "width": 2730,
+              "height": 3640,
+              "focalX": 50,
+              "focalY": 50,
+              "createdAt": "2024-12-23T21:55:24.518Z",
+              "updatedAt": "2024-12-23T21:55:24.518Z",
+              "url": "/api/media/file/upsize trousers no drawstrings.webp",
+              "thumbnailURL": null
+            }
+          },
+          "questions": [
+            {
+              "question": "Is there seam allowance?",
+              "explainer": "Check the inside seam for extra fabric on the inside of a garment, found along the seams where the fabric pieces are stitched together.",
+              "questionType": "radio",
+              "option": [
+                {
+                  "answer": "There is seam allowance ",
+                  "priceModifier": 0,
+                  "tailorPointsModifier": 0,
+                  "id": "6751f8f3dd03bf35d0000ae7"
+                },
+                {
+                  "answer": "There is not seam allowance",
+                  "priceModifier": 300,
+                  "tailorPointsModifier": 2,
+                  "id": "6751f903dd03bf35d0000ae8"
+                }
+              ],
+              "id": "6751f8dadd03bf35d0000ae6"
+            }
+          ],
+          "subservices": [
+            {
+              "name": "Add side panels ",
+              "description": "Adding a panel of fabric into the side seams, in a contrasting or matching fabric colour. We recommend to send in a matched item of the same style and fabric for our tailors to match the measurements to.",
+              "priceModifier": 1000,
+              "tailorPointsModifier": 2,
+              "coverImage": {
+                "relationTo": "media",
+                "value": {
+                  "id": "6769dc4c2c7f3bf945ee85cc",
+                  "filename": "upsize trousers no drawstrings.webp",
+                  "mimeType": "image/webp",
+                  "filesize": 205738,
+                  "width": 2730,
+                  "height": 3640,
+                  "focalX": 50,
+                  "focalY": 50,
+                  "createdAt": "2024-12-23T21:55:24.518Z",
+                  "updatedAt": "2024-12-23T21:55:24.518Z",
+                  "url": "/api/media/file/upsize trousers no drawstrings.webp",
+                  "thumbnailURL": null
+                }
+              },
+              "questions": [
+                {
+                  "question": "What material would you like for the panels?",
+                  "explainer": "We can either use material you supply or use what we have in the studio. This can be a close match in terms of material colour and fabric or a contrast colour.",
+                  "questionType": "radio",
+                  "option": [
+                    {
+                      "answer": "Supply my own material",
+                      "priceModifier": 0,
+                      "tailorPointsModifier": 0,
+                      "id": "67d72aa1c047eae7653f0c67"
+                    },
+                    {
+                      "answer": "Close match material",
+                      "priceModifier": 500,
+                      "tailorPointsModifier": 0,
+                      "id": "67d72ab2c047eae7653f0c68"
+                    },
+                    {
+                      "answer": "Contrast colour material",
+                      "priceModifier": 500,
+                      "tailorPointsModifier": 0,
+                      "id": "67d72abdc047eae7653f0c69"
+                    }
+                  ],
+                  "id": "67d72a4fc047eae7653f0c66"
+                }
+              ],
+              "deadEnd": false,
+              "active": true,
+              "id": "6751fa15dd03bf35d0000aea"
+            },
+            {
+              "name": "Add Panel to hem",
+              "description": "Adding a panel of fabric to hem, in a contrasting or matching fabric colour. We recommend to send in a matched item of the same style and fabric for our tailors to match the measurements to.",
+              "priceModifier": 1000,
+              "tailorPointsModifier": 2,
+              "coverImage": {
+                "relationTo": "media",
+                "value": {
+                  "id": "676984f82c7f3bf945ee1f73",
+                  "filename": "Panel to hem temporary.webp",
+                  "mimeType": "image/webp",
+                  "filesize": 283004,
+                  "width": 2638,
+                  "height": 3518,
+                  "focalX": 50,
+                  "focalY": 50,
+                  "createdAt": "2024-12-23T15:42:48.004Z",
+                  "updatedAt": "2024-12-23T15:42:48.004Z",
+                  "url": "/api/media/file/Panel to hem temporary.webp",
+                  "thumbnailURL": null
+                }
+              },
+              "questions": [
+                {
+                  "question": "What material would you like for the panels?",
+                  "explainer": "We can either use material you supply or use what we have in the studio. This can be a close match in terms of material colour and fabric or a contrast colour.",
+                  "questionType": "radio",
+                  "option": [
+                    {
+                      "answer": "Supply my own material",
+                      "priceModifier": 0,
+                      "tailorPointsModifier": 0,
+                      "id": "67d72be4c047eae7653f0c6b"
+                    },
+                    {
+                      "answer": "Close match material",
+                      "priceModifier": 500,
+                      "tailorPointsModifier": 0,
+                      "id": "67d72bf7c047eae7653f0c6c"
+                    },
+                    {
+                      "answer": "Contrast colour material",
+                      "priceModifier": 500,
+                      "tailorPointsModifier": 0,
+                      "id": "67d72c07c047eae7653f0c6d"
+                    }
+                  ],
+                  "id": "67d72bd1c047eae7653f0c6a"
+                }
+              ],
+              "deadEnd": false,
+              "active": true,
+              "id": "6751faaddd03bf35d0000aeb"
+            },
+            {
+              "name": "Widen using existing seam allowance ",
+              "description": "Discrete method of widening using existing seam allowance to let out the sides. Please keep in mind that previous stitch marks my be visible when first completed but this will fade with wear and washes.",
+              "priceModifier": 0,
+              "tailorPointsModifier": 0,
+              "questionAnswerExclusion": "[\"6751f903dd03bf35d0000ae8\"]",
+              "coverImage": {
+                "relationTo": "media",
+                "value": {
+                  "id": "6769e8ce2c7f3bf945ee905d",
+                  "filename": "exisiting seam allowance.webp",
+                  "mimeType": "image/webp",
+                  "filesize": 676364,
+                  "width": 2863,
+                  "height": 3818,
+                  "focalX": 50,
+                  "focalY": 50,
+                  "createdAt": "2024-12-23T22:48:46.856Z",
+                  "updatedAt": "2024-12-23T22:48:46.856Z",
+                  "url": "/api/media/file/exisiting seam allowance.webp",
+                  "thumbnailURL": null
+                }
+              },
+              "questions": [],
+              "deadEnd": false,
+              "active": true,
+              "id": "6751fae9dd03bf35d0000aec"
+            },
+            {
+              "name": "Lengthen using existing seam allowance ",
+              "description": "Discrete method of lengthening by letting down the existing seam. Please keep in mind that previous stitch marks my be visible when first completed but this will fade with wear and washes.",
+              "priceModifier": 0,
+              "tailorPointsModifier": 0,
+              "questionAnswerExclusion": "[\"6751f903dd03bf35d0000ae8\"]",
+              "coverImage": {
+                "relationTo": "media",
+                "value": {
+                  "id": "6769e9162c7f3bf945ee90c1",
+                  "filename": "seam allowance hem t-short grey.webp",
+                  "mimeType": "image/webp",
+                  "filesize": 533730,
+                  "width": 2725,
+                  "height": 3633,
+                  "focalX": 50,
+                  "focalY": 50,
+                  "createdAt": "2024-12-23T22:49:58.519Z",
+                  "updatedAt": "2024-12-23T22:49:58.519Z",
+                  "url": "/api/media/file/seam allowance hem t-short grey.webp",
+                  "thumbnailURL": null
+                }
+              },
+              "questions": [],
+              "deadEnd": false,
+              "active": true,
+              "id": "6751fb22dd03bf35d0000aed"
+            }
+          ],
+          "deadEnd": false,
+          "active": true,
+          "id": "6751f7d2dd03bf35d0000ae1"
+        },
+        {
+          "name": "Fix stitching",
+          "description": "Repairs seams or stitches that have come undone or are loose. Ideal for when the thread holding the fabric together is damaged, loose, or has unraveled.",
+          "serviceType": "repair",
+          "fittingChoices": [],
+          "price": 1500,
+          "tailorPoints": 4,
+          "coverImage": {
+            "relationTo": "media",
+            "value": {
+              "id": "6769e92f2c7f3bf945ee90f0",
+              "filename": "fix stitching hoodie.webp",
+              "mimeType": "image/webp",
+              "filesize": 264958,
+              "width": 2490,
+              "height": 3320,
+              "focalX": 50,
+              "focalY": 50,
+              "createdAt": "2024-12-23T22:50:23.603Z",
+              "updatedAt": "2024-12-23T22:50:23.603Z",
+              "url": "/api/media/file/fix stitching hoodie.webp",
+              "thumbnailURL": null
+            }
+          },
+          "questions": [],
+          "subservices": [],
+          "deadEnd": false,
+          "active": true,
+          "id": "6751e9d2dd03bf35d0000aa1"
+        },
+        {
+          "name": "Mend rips/ holes",
+          "serviceType": "repair",
+          "fittingChoices": [],
+          "price": 1500,
+          "tailorPoints": 4,
+          "coverImage": {
+            "relationTo": "media",
+            "value": {
+              "id": "6769e93d2c7f3bf945ee9118",
+              "filename": "hoodie hole.webp",
+              "mimeType": "image/webp",
+              "filesize": 301924,
+              "width": 2107,
+              "height": 2809,
+              "focalX": 50,
+              "focalY": 50,
+              "createdAt": "2024-12-23T22:50:37.391Z",
+              "updatedAt": "2024-12-23T22:50:37.391Z",
+              "url": "/api/media/file/hoodie hole.webp",
+              "thumbnailURL": null
+            }
+          },
+          "questions": [
+            {
+              "question": "How many rips/ holes do you need fixing?",
+              "questionType": "radio",
+              "option": [
+                {
+                  "answer": "1 hole / rip",
+                  "priceModifier": 0,
+                  "tailorPointsModifier": 0,
+                  "id": "6751eccddd03bf35d0000aa4"
+                },
+                {
+                  "answer": "2-3 holes / rips",
+                  "priceModifier": 1000,
+                  "tailorPointsModifier": 3,
+                  "id": "6751ecd9dd03bf35d0000aa5"
+                },
+                {
+                  "answer": "4-6 holes / rips",
+                  "priceModifier": 2000,
+                  "tailorPointsModifier": 5,
+                  "id": "6751ecefdd03bf35d0000aa6"
+                },
+                {
+                  "answer": "7-9 holes / rips",
+                  "priceModifier": 3000,
+                  "tailorPointsModifier": 8,
+                  "id": "6751ecfadd03bf35d0000aa7"
+                },
+                {
+                  "answer": "10 + holes/ rips",
+                  "priceModifier": 4500,
+                  "tailorPointsModifier": 16,
+                  "id": "6751ed19dd03bf35d0000aa8"
+                }
+              ],
+              "id": "6751ecbddd03bf35d0000aa3"
+            },
+            {
+              "question": "What is the size of your hole(s)/ rip(s)",
+              "explainer": "Please give the average size of the holes or rips when there are varying sizes. Please measure from the widest part.",
+              "questionType": "radio",
+              "option": [
+                {
+                  "answer": "0- 1cm",
+                  "priceModifier": 0,
+                  "tailorPointsModifier": 0,
+                  "id": "6751ee80dd03bf35d0000aaa"
+                },
+                {
+                  "answer": "1.5cm - 3cm",
+                  "priceModifier": 500,
+                  "tailorPointsModifier": 1,
+                  "id": "6751ee8ddd03bf35d0000aab"
+                },
+                {
+                  "answer": "3.5cm- 5cm",
+                  "priceModifier": 1000,
+                  "tailorPointsModifier": 2,
+                  "id": "6751eea0dd03bf35d0000aac"
+                },
+                {
+                  "answer": "5.5cm-7cm",
+                  "priceModifier": 1500,
+                  "tailorPointsModifier": 3,
+                  "id": "6751eeb3dd03bf35d0000aad"
+                },
+                {
+                  "answer": "7cm +",
+                  "priceModifier": 2000,
+                  "tailorPointsModifier": 4,
+                  "id": "6751eee4dd03bf35d0000aae"
+                }
+              ],
+              "id": "6751ed35dd03bf35d0000aa9"
+            }
+          ],
+          "subservices": [
+            {
+              "name": "Visible darning",
+              "priceModifier": 2000,
+              "tailorPointsModifier": 5,
+              "coverImage": {
+                "relationTo": "media",
+                "value": {
+                  "id": "6758247b62c21f38e94ecaab",
+                  "filename": "Wool jacket visible darning.webp",
+                  "mimeType": "image/webp",
+                  "filesize": 223056,
+                  "width": 2376,
+                  "height": 3168,
+                  "focalX": 50,
+                  "focalY": 50,
+                  "createdAt": "2024-12-10T11:22:35.675Z",
+                  "updatedAt": "2024-12-10T11:22:35.675Z",
+                  "url": "/api/media/file/Wool jacket visible darning.webp",
+                  "thumbnailURL": null
+                }
+              },
+              "questions": [
+                {
+                  "question": "Would you prefer a close colour match or a contrast? Please specify 'close match' or your desired contrast colour.",
+                  "explainer": "If you choose close colour match we will select the closest match from our selection of over 2,000 yarns. We cannot guarantee an exact match.",
+                  "questionType": "text",
+                  "option": [],
+                  "id": "6751f014dd03bf35d0000ab0"
+                }
+              ],
+              "deadEnd": false,
+              "active": true,
+              "id": "6751ef00dd03bf35d0000aaf"
+            },
+            {
+              "name": "Patch ",
+              "description": "We can create patches using either excess material from the garment or use a close colour match to create discrete patches. Alternatively we can create patches in a contrast colour similar to the style of Sashiko mending techniques.",
+              "priceModifier": 2000,
+              "tailorPointsModifier": 4,
+              "coverImage": {
+                "relationTo": "media",
+                "value": {
+                  "id": "6769e97a2c7f3bf945ee916b",
+                  "filename": "hoodie patch.webp",
+                  "mimeType": "image/webp",
+                  "filesize": 440798,
+                  "width": 2053,
+                  "height": 2738,
+                  "focalX": 50,
+                  "focalY": 50,
+                  "createdAt": "2024-12-23T22:51:38.567Z",
+                  "updatedAt": "2024-12-23T22:51:38.567Z",
+                  "url": "/api/media/file/hoodie patch.webp",
+                  "thumbnailURL": null
+                }
+              },
+              "questions": [],
+              "deadEnd": false,
+              "active": true,
+              "id": "6751fbf5dd03bf35d0000aee"
+            },
+            {
+              "name": "Create discrete seam ",
+              "description": "We can pull the rip/ hole into a small seam leaving a small line where the material has been taken in to find the damage.",
+              "priceModifier": 1500,
+              "tailorPointsModifier": 3,
+              "coverImage": {
+                "relationTo": "media",
+                "value": {
+                  "id": "6758229562c21f38e94ec98c",
+                  "filename": "Create seam.webp",
+                  "mimeType": "image/webp",
+                  "filesize": 878336,
+                  "width": 2795,
+                  "height": 3727,
+                  "focalX": 50,
+                  "focalY": 50,
+                  "createdAt": "2024-12-10T11:14:29.330Z",
+                  "updatedAt": "2024-12-10T11:14:29.330Z",
+                  "url": "/api/media/file/Create seam.webp",
+                  "thumbnailURL": null
+                }
+              },
+              "questions": [],
+              "deadEnd": false,
+              "active": true,
+              "id": "6751fce2dd03bf35d0000aef"
+            },
+            {
+              "name": "Fix rip along seam",
+              "description": "Repairs a single tear or damage along a seam, where the pieces of fabric are stitched together. Ideal for small rips caused by snagging or wear and tear to maintain the structural integrity. In some cases depending on the damage we will need to take in the fabric to ensure a clean new durable seam, this can slightly alter the fit of the original shape.",
+              "priceModifier": 1500,
+              "tailorPointsModifier": 2,
+              "coverImage": {
+                "relationTo": "media",
+                "value": {
+                  "id": "675846fe62c21f38e94ef4ea",
+                  "filename": "Wool jacket rip along sleeve.webp",
+                  "mimeType": "image/webp",
+                  "filesize": 162472,
+                  "width": 2089,
+                  "height": 2785,
+                  "focalX": 50,
+                  "focalY": 50,
+                  "createdAt": "2024-12-10T13:49:50.600Z",
+                  "updatedAt": "2024-12-10T13:49:50.600Z",
+                  "url": "/api/media/file/Wool jacket rip along sleeve.webp",
+                  "thumbnailURL": null
+                }
+              },
+              "questions": [],
+              "deadEnd": false,
+              "active": true,
+              "id": "675999acde92012cbc448ada"
+            }
+          ],
+          "deadEnd": false,
+          "active": true,
+          "id": "6751ec44dd03bf35d0000aa2"
+        },
+        {
+          "name": "Replace ribbing",
+          "description": "Replace worn away ribbing at the cuffs, neckline, bottom ribbing ",
+          "serviceType": "repair",
+          "fittingChoices": [],
+          "price": 2500,
+          "tailorPoints": 5,
+          "coverImage": {
+            "relationTo": "media",
+            "value": {
+              "id": "675832ad62c21f38e94edb0d",
+              "filename": "Hoodie sleeve broken.webp",
+              "mimeType": "image/webp",
+              "filesize": 891962,
+              "width": 2695,
+              "height": 3593,
+              "focalX": 50,
+              "focalY": 50,
+              "createdAt": "2024-12-10T12:23:09.653Z",
+              "updatedAt": "2024-12-10T12:23:09.653Z",
+              "url": "/api/media/file/Hoodie sleeve broken.webp",
+              "thumbnailURL": null
+            }
+          },
+          "questions": [],
+          "subservices": [
+            {
+              "name": "Replace ribbing of one sleeve",
+              "priceModifier": 0,
+              "tailorPointsModifier": 0,
+              "coverImage": {
+                "relationTo": "media",
+                "value": {
+                  "id": "675833c162c21f38e94edb36",
+                  "filename": "mended hoodie sleeve.webp",
+                  "mimeType": "image/webp",
+                  "filesize": 595910,
+                  "width": 2422,
+                  "height": 3230,
+                  "focalX": 50,
+                  "focalY": 50,
+                  "createdAt": "2024-12-10T12:27:45.751Z",
+                  "updatedAt": "2024-12-10T12:27:45.751Z",
+                  "url": "/api/media/file/mended hoodie sleeve.webp",
+                  "thumbnailURL": null
+                }
+              },
+              "questions": [],
+              "deadEnd": false,
+              "active": true,
+              "id": "6751f5ffdd03bf35d0000add"
+            },
+            {
+              "name": "Replace ribbing of both sleeves",
+              "priceModifier": 2500,
+              "tailorPointsModifier": 5,
+              "coverImage": {
+                "relationTo": "media",
+                "value": {
+                  "id": "676ab7902c7f3bf945ef5a39",
+                  "filename": "2 x cuffs.webp",
+                  "mimeType": "image/webp",
+                  "filesize": 446702,
+                  "width": 2956,
+                  "height": 3942,
+                  "focalX": 50,
+                  "focalY": 50,
+                  "createdAt": "2024-12-24T13:30:56.642Z",
+                  "updatedAt": "2024-12-24T13:30:56.642Z",
+                  "url": "/api/media/file/2 x cuffs.webp",
+                  "thumbnailURL": null
+                }
+              },
+              "questions": [],
+              "deadEnd": false,
+              "active": true,
+              "id": "6751f629dd03bf35d0000ade"
+            },
+            {
+              "name": "Replace ribbing around neckline",
+              "priceModifier": 500,
+              "tailorPointsModifier": 1,
+              "coverImage": {
+                "relationTo": "media",
+                "value": {
+                  "id": "6769e9d02c7f3bf945ee920b",
+                  "filename": "neckline ribbing.webp",
+                  "mimeType": "image/webp",
+                  "filesize": 505242,
+                  "width": 2680,
+                  "height": 3573,
+                  "focalX": 50,
+                  "focalY": 50,
+                  "createdAt": "2024-12-23T22:53:04.857Z",
+                  "updatedAt": "2024-12-23T22:53:04.857Z",
+                  "url": "/api/media/file/neckline ribbing.webp",
+                  "thumbnailURL": null
+                }
+              },
+              "questions": [],
+              "deadEnd": false,
+              "active": true,
+              "id": "6751f651dd03bf35d0000adf"
+            },
+            {
+              "name": "Replace ribbing waistband ",
+              "priceModifier": 500,
+              "tailorPointsModifier": 6,
+              "coverImage": {
+                "relationTo": "media",
+                "value": {
+                  "id": "6769e9e82c7f3bf945ee9241",
+                  "filename": "waistband hoodie.webp",
+                  "mimeType": "image/webp",
+                  "filesize": 662146,
+                  "width": 2719,
+                  "height": 3625,
+                  "focalX": 50,
+                  "focalY": 50,
+                  "createdAt": "2024-12-23T22:53:28.244Z",
+                  "updatedAt": "2024-12-23T22:53:28.244Z",
+                  "url": "/api/media/file/waistband hoodie.webp",
+                  "thumbnailURL": null
+                }
+              },
+              "questions": [],
+              "deadEnd": false,
+              "active": true,
+              "id": "6751f691dd03bf35d0000ae0"
+            }
+          ],
+          "deadEnd": false,
+          "active": true,
+          "id": "6751f2cedd03bf35d0000ad8"
+        },
+        {
+          "name": "Adjust Shoulders",
+          "serviceType": "alteration",
+          "fittingChoices": [
+            "pin",
+            "measure"
+          ],
+          "price": 2800,
+          "tailorPoints": 6,
+          "coverImage": {
+            "relationTo": "media",
+            "value": {
+              "id": "6758c2f52c7f3bf945ebc4f4",
+              "filename": "wool jacket narrow shoulders.webp",
+              "mimeType": "image/webp",
+              "filesize": 87940,
+              "width": 3037,
+              "height": 4049,
+              "focalX": 50,
+              "focalY": 50,
+              "createdAt": "2024-12-10T22:38:45.974Z",
+              "updatedAt": "2024-12-10T22:38:45.974Z",
+              "url": "/api/media/file/wool jacket narrow shoulders.webp",
+              "thumbnailURL": null
+            }
+          },
+          "questions": [],
+          "subservices": [
+            {
+              "name": "Narrow Shoulders",
+              "priceModifier": 1000,
+              "tailorPointsModifier": 2,
+              "coverImage": {
+                "relationTo": "media",
+                "value": {
+                  "id": "6758c2f52c7f3bf945ebc4f4",
+                  "filename": "wool jacket narrow shoulders.webp",
+                  "mimeType": "image/webp",
+                  "filesize": 87940,
+                  "width": 3037,
+                  "height": 4049,
+                  "focalX": 50,
+                  "focalY": 50,
+                  "createdAt": "2024-12-10T22:38:45.974Z",
+                  "updatedAt": "2024-12-10T22:38:45.974Z",
+                  "url": "/api/media/file/wool jacket narrow shoulders.webp",
+                  "thumbnailURL": null
+                }
+              },
+              "questions": [],
+              "deadEnd": false,
+              "active": true,
+              "id": "6828b97ad5517d74386a770c"
+            },
+            {
+              "name": "Lift Shoulders",
+              "priceModifier": 0,
+              "tailorPointsModifier": 0,
+              "coverImage": {
+                "relationTo": "media",
+                "value": {
+                  "id": "675838be62c21f38e94ee0e3",
+                  "filename": "Waistcoat narrow shoulders",
+                  "mimeType": "image/jpeg",
+                  "filesize": 513868,
+                  "width": 2959,
+                  "height": 3945,
+                  "focalX": 50,
+                  "focalY": 50,
+                  "createdAt": "2024-12-10T12:49:02.363Z",
+                  "updatedAt": "2024-12-10T12:49:02.363Z",
+                  "url": "/api/media/file/Waistcoat narrow shoulders",
+                  "thumbnailURL": null
+                }
+              },
+              "questions": [],
+              "deadEnd": false,
+              "active": true,
+              "id": "6828b9b2d5517d74386a770d"
+            }
+          ],
+          "deadEnd": false,
+          "active": true,
+          "id": "6828b5b4d5517d74386a770b"
+        }
+      ],
+      "active": true,
+      "createdAt": "2024-11-28T10:12:35.191Z",
+      "updatedAt": "2025-05-17T16:31:40.374Z",
+      "coverImage": {
+        "relationTo": "media",
+        "value": {
+          "id": "676aa88a2c7f3bf945ef3b50",
+          "filename": "Hoodie M&S.webp",
+          "mimeType": "image/webp",
+          "filesize": 180446,
+          "width": 1920,
+          "height": 2496,
+          "focalX": 50,
+          "focalY": 50,
+          "createdAt": "2024-12-24T12:26:50.580Z",
+          "updatedAt": "2024-12-24T12:26:50.580Z",
+          "url": "/api/media/file/Hoodie M&S.webp",
+          "thumbnailURL": null
+        }
+      }
+    }
+  ],
+  "totalDocs": 3,
+  "limit": 3,
+  "totalPages": 1,
+  "page": 1,
+  "pagingCounter": 1,
+  "hasPrevPage": false,
+  "hasNextPage": false,
+  "prevPage": null,
+  "nextPage": null
+}

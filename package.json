@@ -1,0 +1,22 @@
+{
+  "name": "houseoftailors-firebase-setup",
+  "version": "1.0.0",
+  "description": "Firebase setup script for House of Tailors",
+  "main": "firebase_setup.js",
+  "scripts": {
+    "setup": "node firebase_setup.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "firebase-admin": "^12.7.0",
+    "jose": "^6.0.12"
+  },
+  "keywords": [
+    "firebase",
+    "firestore",
+    "setup",
+    "tailors"
+  ],
+  "author": "House of Tailors",
+  "license": "ISC"
+}

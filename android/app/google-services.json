@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "243347299804",
+    "project_id": "houseoftailors1-786c5",
+    "storage_bucket": "houseoftailors1-786c5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243347299804:android:eb16198412a9aa9bac0319",
+        "android_client_info": {
+          "package_name": "com.example.houseoftailors"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo6-bdYmMxc0GFMUCA-CreCnCN603PBGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
