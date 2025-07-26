@@ -65,10 +65,12 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAHq1u_fndDwL_IR26H0_Gq7SvnxTbC2I4',
-    appId: '1:1070162502365:ios:0a8aefc763ffc500427134',
-    messagingSenderId: '1070162502365',
-    projectId: 'houseoftailorsios',
-    storageBucket: 'houseoftailorsios.firebasestorage.app',
+    apiKey: 'AIzaSyBKpQpYukanl6DIOABcAqzMbJqjmfuKFFE',
+    appId: '1:243347299804:ios:b3606cab79861c70ac0319',
+    messagingSenderId: '243347299804',
+    projectId: 'houseoftailors1-786c5',
+    storageBucket: 'houseoftailors1-786c5.firebasestorage.app',
+    iosBundleId: 'com.example.houseoftailors',
   );
+
 }
